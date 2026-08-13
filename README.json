@@ -143,7 +143,7 @@
             "last_commit": "2026-08-12T13:20:28Z",
             "owner": "flame-engine",
             "repo": "flame",
-            "stars": 10717
+            "stars": 10718
           }
         },
         {
@@ -629,7 +629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:02:31.228Z",
+    "last_updated": "2026-08-13T07:01:32.988Z",
     "original_repository": "yissachar/awesome-dart",
     "original_repository_sha": "116107d93b8bd5afe467728ee1f59f0b79e94d87",
     "enhanced_repository": "enhansome/enhansome-dart",
