@@ -1,0 +1,639 @@
+{
+  "items": [
+    {
+      "description": "Please take a quick look at the contribution guidelines first. If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you to all contributors; you rock!",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dart Frog",
+          "description": "A fast, minimalistic backend framework for Dart.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-01T18:44:17Z",
+            "owner": "dart-frog-dev",
+            "repo": "dart_frog",
+            "stars": 2271
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alfred",
+          "description": "Minimal ExpressJS-inspired server with routing and middlware.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2025-05-19T04:30:30Z",
+            "owner": "rknell",
+            "repo": "alfred",
+            "stars": 532
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Start",
+          "description": "Sinatra inspired web framework to serve static files, handle dynamic requests, websockets and create JSON responses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2021-05-11T19:02:59Z",
+            "owner": "lvivski",
+            "repo": "start",
+            "stars": 530
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jaguar",
+          "description": "A server framework built for speed, simplicity and extensibility.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-09-08T23:00:41Z",
+            "owner": "Jaguar-dart",
+            "repo": "jaguar",
+            "stars": 471
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rikulo Stream",
+          "description": "Lightweight web server with request routing, filtering, template engine, WebSocket, MVC design pattern, and file-based static resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-06-01T04:37:35Z",
+            "owner": "rikulo",
+            "repo": "stream",
+            "stars": 237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vane",
+          "description": "Framework with built-in server runtime environment and middleware system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2019-03-17T19:01:42Z",
+            "owner": "Scorpiion",
+            "repo": "vane",
+            "stars": 61
+          }
+        }
+      ],
+      "title": "Server Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "universal_io",
+          "description": "dart:io that also works in the browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2025-11-16T22:26:30Z",
+            "owner": "dint-dev",
+            "repo": "universal_io",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "universal_html",
+          "description": "dart:html that also works in the VM/Flutter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2023-09-07T14:42:23Z",
+            "owner": "terrier989",
+            "repo": "universal_html",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Cross-platform development"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Flame",
+          "description": "A minimalist Flutter game engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-12T13:20:28Z",
+            "owner": "flame-engine",
+            "repo": "flame",
+            "stars": 10717
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DartRocket",
+          "description": "DartRocket is a HTML5 game framework written in Dart and which uses the StageXL rendering engine.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Dart",
+            "last_commit": "2018-09-26T19:40:12Z",
+            "owner": "StrykerKKD",
+            "repo": "dartrocket",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pixi Dart",
+          "description": "A port of the pixi.js rendering engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2014-11-28T13:42:39Z",
+            "owner": "FedeOmoto",
+            "repo": "pixi",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ranger",
+          "description": "A game engine centered around HTML5 Canvas and a scene graph.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2021-08-31T13:30:10Z",
+            "owner": "wdevore",
+            "repo": "Ranger-Dart",
+            "stars": 26
+          }
+        }
+      ],
+      "title": "Game Development"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Universal Tween Engine",
+          "description": "A port of the original java Universal Tween Engine created by Aurelien Ribbon.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2019-03-12T18:22:57Z",
+            "owner": "xaguzman",
+            "repo": "tween-engine-dart",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spine Dart",
+          "description": "An implementation of the Esoteric Software Spine runtime.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2014-11-28T13:45:59Z",
+            "owner": "FedeOmoto",
+            "repo": "spine",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "Animation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mason",
+          "description": "Tools which allow developers to create and consume reusable templates called bricks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-06-03T22:27:26Z",
+            "owner": "felangel",
+            "repo": "mason",
+            "stars": 1133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jaded",
+          "description": "Port of the excellent Jade view engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2020-01-22T01:09:50Z",
+            "owner": "dartist",
+            "repo": "jaded",
+            "stars": 43
+          }
+        }
+      ],
+      "title": "Template"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Postgres",
+          "description": "A PostgreSQL database driver that uses the extended, binary protocol for more efficient and secure queries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2022-09-06T20:25:26Z",
+            "owner": "stablekernel",
+            "repo": "postgresql-dart",
+            "stars": 128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PostgreSQL",
+          "description": "PostgreSQL database driver.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2016-10-29T21:29:43Z",
+            "owner": "xxgreg",
+            "repo": "dart_postgresql",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SQLJockey",
+          "description": "MySQL connector.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2017-07-03T01:42:01Z",
+            "owner": "jamesots",
+            "repo": "sqljocky",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "Database"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Quiver",
+          "description": "A set of utility libraries that makes using many libraries easier and more convenient, or adds additional functionality.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-04-02T02:02:22Z",
+            "owner": "google",
+            "repo": "quiver-dart",
+            "stars": 1065
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "built_value",
+          "description": "Immutable value types, enum classes, and serialization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-05T08:24:54Z",
+            "owner": "google",
+            "repo": "built_value.dart",
+            "stars": 885
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "built_collection",
+          "description": "Immutable collections via the builder pattern.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-03T06:27:53Z",
+            "owner": "google",
+            "repo": "built_collection.dart",
+            "stars": 285
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Basics",
+          "description": "A Dart library containing convenient extension methods on basic Dart objects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-01T15:22:34Z",
+            "owner": "google",
+            "repo": "dart-basics",
+            "stars": 165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "route_hierarchical",
+          "description": "Route is a client routing library for Dart that helps make building single-page web apps.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Dart",
+            "last_commit": "2017-06-15T21:52:26Z",
+            "owner": "dart-archive",
+            "repo": "route.dart",
+            "stars": 31
+          }
+        }
+      ],
+      "title": "Utilities"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "package: inject",
+          "description": "Compile-time dependency injection for Dart and Flutter",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Dart",
+            "last_commit": "2020-10-14T21:56:08Z",
+            "owner": "google",
+            "repo": "inject.dart",
+            "stars": 860
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dependencies",
+          "description": "A simple and modular dependency injection system which doesn't use mirrors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2021-11-05T12:36:40Z",
+            "owner": "marcguilera",
+            "repo": "dependencies.dart",
+            "stars": 31
+          }
+        }
+      ],
+      "title": "Dependency Injection"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PetitParser",
+          "description": "PetitParser combines ideas from scannerless parsing, parser combinators, parsing expression grammars and packrat parsers to model grammars and parsers as objects that can be reconfigured dynamically.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-12T21:18:52Z",
+            "owner": "petitparser",
+            "repo": "dart-petitparser",
+            "stars": 486
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "markdown",
+          "description": "Parse markdown into HTML on both the client and server.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Dart",
+            "last_commit": "2025-02-01T02:27:19Z",
+            "owner": "dart-archive",
+            "repo": "markdown",
+            "stars": 475
+          }
+        }
+      ],
+      "title": "Parsers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "m2cgen",
+          "description": "A CLI tool to transpile trained classic ML models into a native Dart code with zero dependencies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-03T17:30:36Z",
+            "owner": "BayesWitnesses",
+            "repo": "m2cgen",
+            "stars": 2995
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dart Code Metrics",
+          "description": "Additional linter which reports code metrics, checks for anti-patterns and provides additional rules for Analyzer.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Dart",
+            "last_commit": "2023-07-16T15:30:39Z",
+            "owner": "dart-code-checker",
+            "repo": "dart-code-metrics",
+            "stars": 863
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stagehand",
+          "description": "A project scaffolding generator, inspired by tools like Web Starter Kit and Yeoman.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Dart",
+            "last_commit": "2021-05-27T07:20:35Z",
+            "owner": "dart-archive",
+            "repo": "stagehand",
+            "stars": 644
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dev_compiler",
+          "description": "Dart to JavaScript compiler designed to create idiomatic, readable JavaScript output.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2017-07-11T18:10:05Z",
+            "owner": "dart-archive",
+            "repo": "dev_compiler",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "js2dart",
+          "description": "compiles Javascript code to Dart.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2014-09-17T00:00:24Z",
+            "owner": "vojtajina",
+            "repo": "js2dart",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webdev_proxy",
+          "description": "A proxy wrapper around webdev which adds support for rerouting 404s to the index, allowing for HTML push-based routing while running locally.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-31T23:51:18Z",
+            "owner": "Workiva",
+            "repo": "webdev_proxy",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-dart",
+          "description": "A gulp plugin for compiling Dart code to JavaScript using dart2js.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-04-12T12:09:21Z",
+            "owner": "agudulin",
+            "repo": "gulp-dart",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Vim Plugin",
+          "description": "Syntax highlighting for Dart in Vim.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2026-06-05T23:05:16Z",
+            "owner": "dart-lang",
+            "repo": "dart-vim-plugin",
+            "stars": 656
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sublime Text Package",
+          "description": "Sublime Text 3 Dart Package.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-06T22:23:01Z",
+            "owner": "guillermooo",
+            "repo": "dart-sublime-bundle",
+            "stars": 260
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dart Barrel File Generator",
+          "description": "VSCode extension that generates barrel files for Dart projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-29T05:16:11Z",
+            "owner": "mikededo",
+            "repo": "dart-barrel-file-generator",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Emacs Plugin",
+          "description": "An Emacs mode for the Dart language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-06-19T13:59:04Z",
+            "owner": "emacsorphanage",
+            "repo": "dart-mode",
+            "stars": 25
+          }
+        }
+      ],
+      "title": "IDEs, Editors, and Plugins"
+    },
+    {
+      "description": "There are lots of awesome libraries being added to Pub all the time. If you can't find a library on this list that meets your needs, go ahead and search for it on Pub. And if you end up finding an awesome library, we would love a pull request with the info so that everyone else can discover it as well. Just make sure to read the contributing guidelines first.",
+      "items": [],
+      "title": "Everything Else"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:02:31.228Z",
+    "original_repository": "yissachar/awesome-dart",
+    "original_repository_sha": "116107d93b8bd5afe467728ee1f59f0b79e94d87",
+    "enhanced_repository": "enhansome/enhansome-dart",
+    "enhanced_repository_description": null,
+    "title": "Awesome Dart with stars"
+  }
+}
