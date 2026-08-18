@@ -140,10 +140,10 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-16T20:02:36Z",
+            "last_commit": "2026-08-17T07:46:27Z",
             "owner": "flame-engine",
             "repo": "flame",
-            "stars": 10726
+            "stars": 10728
           }
         },
         {
@@ -629,7 +629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T06:03:30.364Z",
+    "last_updated": "2026-08-18T05:58:40.035Z",
     "original_repository": "yissachar/awesome-dart",
     "original_repository_sha": "116107d93b8bd5afe467728ee1f59f0b79e94d87",
     "enhanced_repository": "enhansome/enhansome-dart",
