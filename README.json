@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "Please take a quick look at the contribution guidelines first. If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you to all contributors; you rock!",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 487699415,
             "language": "Dart",
             "last_commit": "2026-08-01T18:44:17Z",
             "owner": "dart-frog-dev",
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 352642478,
             "language": "Dart",
             "last_commit": "2025-05-19T04:30:30Z",
             "owner": "rknell",
@@ -43,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3740230,
             "language": "Dart",
             "last_commit": "2021-05-11T19:02:59Z",
             "owner": "lvivski",
@@ -57,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68912891,
             "language": "Dart",
             "last_commit": "2024-09-08T23:00:41Z",
             "owner": "Jaguar-dart",
@@ -71,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7364536,
             "language": "Dart",
             "last_commit": "2026-06-01T04:37:35Z",
             "owner": "rikulo",
@@ -85,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18875639,
             "language": "Dart",
             "last_commit": "2019-03-17T19:01:42Z",
             "owner": "Scorpiion",
@@ -96,7 +97,7 @@
       "title": "Server Frameworks"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -105,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 146784535,
             "language": "Dart",
             "last_commit": "2025-11-16T22:26:30Z",
             "owner": "dint-dev",
@@ -119,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 688499283,
             "language": "Dart",
             "last_commit": "2023-09-07T14:42:23Z",
             "owner": "terrier989",
@@ -130,7 +133,7 @@
       "title": "Cross-platform development"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -139,11 +142,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107833072,
             "language": "Dart",
             "last_commit": "2026-08-17T07:46:27Z",
             "owner": "flame-engine",
             "repo": "flame",
-            "stars": 10728
+            "stars": 10727
           }
         },
         {
@@ -153,6 +157,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 19383264,
             "language": "Dart",
             "last_commit": "2018-09-26T19:40:12Z",
             "owner": "StrykerKKD",
@@ -167,6 +172,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21544248,
             "language": "Dart",
             "last_commit": "2014-11-28T13:42:39Z",
             "owner": "FedeOmoto",
@@ -181,6 +187,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24431912,
             "language": "Dart",
             "last_commit": "2021-08-31T13:30:10Z",
             "owner": "wdevore",
@@ -192,7 +199,7 @@
       "title": "Game Development"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -201,6 +208,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16338712,
             "language": "Dart",
             "last_commit": "2019-03-12T18:22:57Z",
             "owner": "xaguzman",
@@ -215,6 +223,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23115471,
             "language": "Dart",
             "last_commit": "2014-11-28T13:45:59Z",
             "owner": "FedeOmoto",
@@ -226,7 +235,7 @@
       "title": "Animation"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -235,6 +244,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 300044841,
             "language": "Dart",
             "last_commit": "2026-06-03T22:27:26Z",
             "owner": "felangel",
@@ -249,6 +259,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10901928,
             "language": "Dart",
             "last_commit": "2020-01-22T01:09:50Z",
             "owner": "dartist",
@@ -260,7 +271,7 @@
       "title": "Template"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -269,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67084787,
             "language": "Dart",
             "last_commit": "2022-09-06T20:25:26Z",
             "owner": "stablekernel",
@@ -283,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8498401,
             "language": "Dart",
             "last_commit": "2016-10-29T21:29:43Z",
             "owner": "xxgreg",
@@ -297,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68229980,
             "language": "Dart",
             "last_commit": "2017-07-03T01:42:01Z",
             "owner": "jamesots",
@@ -308,7 +322,7 @@
       "title": "Database"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -317,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12117219,
             "language": "Dart",
             "last_commit": "2026-04-02T02:02:22Z",
             "owner": "google",
@@ -331,8 +346,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39123862,
             "language": "Dart",
-            "last_commit": "2026-08-05T08:24:54Z",
+            "last_commit": "2026-08-19T09:02:01Z",
             "owner": "google",
             "repo": "built_value.dart",
             "stars": 885
@@ -345,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33324519,
             "language": "Dart",
             "last_commit": "2026-08-03T06:27:53Z",
             "owner": "google",
@@ -359,6 +376,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 242862131,
             "language": "Dart",
             "last_commit": "2026-08-01T15:22:34Z",
             "owner": "google",
@@ -373,6 +391,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 16626439,
             "language": "Dart",
             "last_commit": "2017-06-15T21:52:26Z",
             "owner": "dart-archive",
@@ -384,7 +403,7 @@
       "title": "Utilities"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -393,6 +412,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 125078417,
             "language": "Dart",
             "last_commit": "2020-10-14T21:56:08Z",
             "owner": "google",
@@ -407,6 +427,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 155075495,
             "language": "Dart",
             "last_commit": "2021-11-05T12:36:40Z",
             "owner": "marcguilera",
@@ -418,7 +439,7 @@
       "title": "Dependency Injection"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -427,11 +448,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4460928,
             "language": "Dart",
             "last_commit": "2026-08-12T21:18:52Z",
             "owner": "petitparser",
             "repo": "dart-petitparser",
-            "stars": 487
+            "stars": 488
           }
         },
         {
@@ -441,6 +463,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 8300662,
             "language": "Dart",
             "last_commit": "2025-02-01T02:27:19Z",
             "owner": "dart-archive",
@@ -452,7 +475,7 @@
       "title": "Parsers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -461,6 +484,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 165457814,
             "language": "Python",
             "last_commit": "2024-08-03T17:30:36Z",
             "owner": "BayesWitnesses",
@@ -475,6 +499,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 234254739,
             "language": "Dart",
             "last_commit": "2023-07-16T15:30:39Z",
             "owner": "dart-code-checker",
@@ -489,6 +514,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 22275328,
             "language": "Dart",
             "last_commit": "2021-05-27T07:20:35Z",
             "owner": "dart-archive",
@@ -503,6 +529,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 26764547,
             "language": "JavaScript",
             "last_commit": "2017-07-11T18:10:05Z",
             "owner": "dart-archive",
@@ -517,6 +544,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24075850,
             "language": "JavaScript",
             "last_commit": "2014-09-17T00:00:24Z",
             "owner": "vojtajina",
@@ -531,6 +559,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 190390802,
             "language": "JavaScript",
             "last_commit": "2026-07-31T23:51:18Z",
             "owner": "Workiva",
@@ -545,6 +574,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 40597952,
             "language": "JavaScript",
             "last_commit": "2022-04-12T12:09:21Z",
             "owner": "agudulin",
@@ -556,7 +586,7 @@
       "title": "Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -565,6 +595,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6476961,
             "language": "Vim Script",
             "last_commit": "2026-06-05T23:05:16Z",
             "owner": "dart-lang",
@@ -579,6 +610,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6477138,
             "language": "Python",
             "last_commit": "2023-01-06T22:23:01Z",
             "owner": "guillermooo",
@@ -593,6 +625,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 296118425,
             "language": "TypeScript",
             "last_commit": "2026-04-29T05:16:11Z",
             "owner": "mikededo",
@@ -607,6 +640,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2571950,
             "language": "Dart",
             "last_commit": "2026-06-19T13:59:04Z",
             "owner": "emacsorphanage",
@@ -616,21 +650,12 @@
         }
       ],
       "title": "IDEs, Editors, and Plugins"
-    },
-    {
-      "description": "There are lots of awesome libraries being added to Pub all the time. If you can't find a library on this list that meets your needs, go ahead and search for it on Pub. And if you end up finding an awesome library, we would love a pull request with the info so that everyone else can discover it as well. Just make sure to read the contributing guidelines first.",
-      "items": [],
-      "title": "Everything Else"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T06:00:00.158Z",
+    "last_updated": "2026-08-19T12:23:18.909Z",
     "original_repository": "yissachar/awesome-dart",
+    "original_repository_id": 23129844,
     "original_repository_sha": "116107d93b8bd5afe467728ee1f59f0b79e94d87",
     "enhanced_repository": "enhansome/enhansome-dart",
     "enhanced_repository_description": null,
