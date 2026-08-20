@@ -147,7 +147,7 @@
             "last_commit": "2026-08-17T07:46:27Z",
             "owner": "flame-engine",
             "repo": "flame",
-            "stars": 10727
+            "stars": 10725
           }
         },
         {
@@ -489,7 +489,7 @@
             "last_commit": "2024-08-03T17:30:36Z",
             "owner": "BayesWitnesses",
             "repo": "m2cgen",
-            "stars": 2996
+            "stars": 2995
           }
         },
         {
@@ -615,7 +615,7 @@
             "last_commit": "2023-01-06T22:23:01Z",
             "owner": "guillermooo",
             "repo": "dart-sublime-bundle",
-            "stars": 260
+            "stars": 261
           }
         },
         {
@@ -653,7 +653,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:23:18.909Z",
+    "last_updated": "2026-08-20T06:00:18.977Z",
     "original_repository": "yissachar/awesome-dart",
     "original_repository_id": 23129844,
     "original_repository_sha": "116107d93b8bd5afe467728ee1f59f0b79e94d87",
