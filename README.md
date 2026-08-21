@@ -1,6 +1,6 @@
 # Awesome Dart with stars
 
-A curated list of awesome Dart frameworks, libraries, and software. Items on the list are actively maintained, well documented, and popular in the Dart community. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,901 | 🐛 104 | 📅 2026-08-18 lists.
+A curated list of awesome Dart frameworks, libraries, and software. Items on the list are actively maintained, well documented, and popular in the Dart community. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,358 | 🐛 105 | 📅 2026-08-18 lists.
 
 ### Contributing
 
@@ -57,7 +57,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Other Frameworks
 
-* [Rapid Open Hardware Development (ROHD) Framework](https://github.com/intel/rohd) ⭐ 489 | 🐛 138 | 🌐 Dart | 📅 2026-08-19 - A framework for describing and verifying hardware.
+* [Rapid Open Hardware Development (ROHD) Framework](https://github.com/intel/rohd) ⭐ 488 | 🐛 138 | 🌐 Dart | 📅 2026-08-19 - A framework for describing and verifying hardware.
 
 ## Cross-platform development
 
@@ -66,7 +66,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Game Development
 
-* [Flame](https://github.com/luanpotter/flame#readme) ⭐ 10,725 | 🐛 87 | 🌐 Dart | 📅 2026-08-17 - A minimalist Flutter game engine.
+* [Flame](https://github.com/luanpotter/flame#readme) ⭐ 10,726 | 🐛 88 | 🌐 Dart | 📅 2026-08-20 - A minimalist Flutter game engine.
 * [DartRocket](https://github.com/StrykerKKD/dartrocket) ⚠️ Archived - DartRocket is a HTML5 game framework written in Dart and which uses the StageXL rendering engine.
 * [Pixi Dart](https://github.com/FedeOmoto/pixi) ⭐ 35 | 🐛 1 | 🌐 Dart | 📅 2014-11-28 - A port of the pixi.js rendering engine.
 * [Ranger](https://github.com/wdevore/Ranger-Dart) ⭐ 26 | 🐛 0 | 🌐 Dart | 📅 2021-08-31 - A game engine centered around HTML5 Canvas and a scene graph.
@@ -142,20 +142,20 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Unions
 
-* [Freezed](https://github.com/rrousselGit/freezed) ⭐ 2,192 | 🐛 121 | 🌐 Dart | 📅 2026-08-17 - Code generation for immutable classes that has a simple syntax/API without compromising on the features.
+* [Freezed](https://github.com/rrousselGit/freezed) ⭐ 2,193 | 🐛 121 | 🌐 Dart | 📅 2026-08-17 - Code generation for immutable classes that has a simple syntax/API without compromising on the features.
 
 ## Crash monitoring
 
-* [Sentry](https://github.com/getsentry/sentry-dart) ⭐ 871 | 🐛 122 | 🌐 Dart | 📅 2026-08-20 - Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time.
+* [Sentry](https://github.com/getsentry/sentry-dart) ⭐ 871 | 🐛 121 | 🌐 Dart | 📅 2026-08-20 - Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time.
 
 ## Tools
 
-* [m2cgen](https://github.com/BayesWitnesses/m2cgen) ⭐ 2,995 | 🐛 62 | 🌐 Python | 📅 2024-08-03 - A CLI tool to transpile trained classic ML models into a native Dart code with zero dependencies.
+* [m2cgen](https://github.com/BayesWitnesses/m2cgen) ⭐ 2,998 | 🐛 62 | 🌐 Python | 📅 2024-08-03 - A CLI tool to transpile trained classic ML models into a native Dart code with zero dependencies.
 * [Dart Code Metrics](https://github.com/dart-code-checker/dart-code-metrics) ⚠️ Archived - Additional linter which reports code metrics, checks for anti-patterns and provides additional rules for Analyzer.
 * [Stagehand](https://github.com/dart-lang/stagehand) ⚠️ Archived - A project scaffolding generator, inspired by tools like Web Starter Kit and Yeoman.
 * [dev\_compiler](https://github.com/dart-lang/dev_compiler) ⚠️ Archived - Dart to JavaScript compiler designed to create idiomatic, readable JavaScript output.
 * [js2dart](https://github.com/vojtajina/js2dart) ⭐ 63 | 🐛 3 | 🌐 JavaScript | 📅 2014-09-17 - compiles Javascript code to Dart.
-* [webdev\_proxy](https://github.com/Workiva/webdev_proxy) ⭐ 11 | 🐛 3 | 🌐 JavaScript | 📅 2026-07-31 - A proxy wrapper around [webdev](https://github.com/dart-lang/webdev) ⭐ 224 | 🐛 212 | 🌐 Dart | 📅 2026-08-17 which adds support for rerouting 404s to the index, allowing for HTML push-based routing while running locally.
+* [webdev\_proxy](https://github.com/Workiva/webdev_proxy) ⭐ 11 | 🐛 3 | 🌐 JavaScript | 📅 2026-07-31 - A proxy wrapper around [webdev](https://github.com/dart-lang/webdev) ⭐ 224 | 🐛 213 | 🌐 Dart | 📅 2026-08-17 which adds support for rerouting 404s to the index, allowing for HTML push-based routing while running locally.
 * [gulp-dart](https://github.com/agudulin/gulp-dart) ⚠️ Archived - A gulp plugin for compiling Dart code to JavaScript using dart2js.
 * [DevTools](https://dart.dev/tools/dart-devtools) - a suite of debugging and performance tools for Dart and Flutter.
 * [dart2js](https://www.dartlang.org/tools/dart2js/) - compiles Dart code to JavaScript.
@@ -189,7 +189,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## IDEs, Editors, and Plugins
 
-* [Vim Plugin](https://github.com/dart-lang/dart-vim-plugin) ⭐ 656 | 🐛 6 | 🌐 Vim Script | 📅 2026-06-05 - Syntax highlighting for Dart in Vim.
+* [Vim Plugin](https://github.com/dart-lang/dart-vim-plugin) ⭐ 652 | 🐛 6 | 🌐 Vim Script | 📅 2026-06-05 - Syntax highlighting for Dart in Vim.
 * [Sublime Text Package](https://github.com/guillermooo/dart-sublime-bundle) ⭐ 261 | 🐛 67 | 🌐 Python | 📅 2023-01-06 - Sublime Text 3 Dart Package.
 * [Dart Barrel File Generator](https://github.com/mikededo/dartBarrelFileGenerator) ⭐ 29 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-29 - VSCode extension that generates barrel files for Dart projects.
 * [Emacs Plugin](https://github.com/nex3/dart-mode) ⭐ 25 | 🐛 21 | 🌐 Dart | 📅 2026-06-19 - An Emacs mode for the Dart language.
@@ -210,4 +210,4 @@ There are lots of awesome libraries being added to [Pub](https://pub.dartlang.or
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._

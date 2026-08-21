@@ -144,10 +144,10 @@
             "archived": false,
             "id": 107833072,
             "language": "Dart",
-            "last_commit": "2026-08-17T07:46:27Z",
+            "last_commit": "2026-08-20T13:27:01Z",
             "owner": "flame-engine",
             "repo": "flame",
-            "stars": 10725
+            "stars": 10726
           }
         },
         {
@@ -489,7 +489,7 @@
             "last_commit": "2024-08-03T17:30:36Z",
             "owner": "BayesWitnesses",
             "repo": "m2cgen",
-            "stars": 2995
+            "stars": 2998
           }
         },
         {
@@ -600,7 +600,7 @@
             "last_commit": "2026-06-05T23:05:16Z",
             "owner": "dart-lang",
             "repo": "dart-vim-plugin",
-            "stars": 656
+            "stars": 652
           }
         },
         {
@@ -653,7 +653,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T06:00:18.977Z",
+    "last_updated": "2026-08-21T06:02:16.264Z",
     "original_repository": "yissachar/awesome-dart",
     "original_repository_id": 23129844,
     "original_repository_sha": "116107d93b8bd5afe467728ee1f59f0b79e94d87",
