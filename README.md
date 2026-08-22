@@ -1,6 +1,6 @@
 # Awesome Dart with stars
 
-A curated list of awesome Dart frameworks, libraries, and software. Items on the list are actively maintained, well documented, and popular in the Dart community. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,358 | 🐛 105 | 📅 2026-08-18 lists.
+A curated list of awesome Dart frameworks, libraries, and software. Items on the list are actively maintained, well documented, and popular in the Dart community. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,724 | 🐛 105 | 📅 2026-08-21 lists.
 
 ### Contributing
 
@@ -146,7 +146,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Crash monitoring
 
-* [Sentry](https://github.com/getsentry/sentry-dart) ⭐ 871 | 🐛 121 | 🌐 Dart | 📅 2026-08-20 - Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time.
+* [Sentry](https://github.com/getsentry/sentry-dart) ⭐ 871 | 🐛 121 | 🌐 Dart | 📅 2026-08-21 - Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time.
 
 ## Tools
 
@@ -155,7 +155,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Stagehand](https://github.com/dart-lang/stagehand) ⚠️ Archived - A project scaffolding generator, inspired by tools like Web Starter Kit and Yeoman.
 * [dev\_compiler](https://github.com/dart-lang/dev_compiler) ⚠️ Archived - Dart to JavaScript compiler designed to create idiomatic, readable JavaScript output.
 * [js2dart](https://github.com/vojtajina/js2dart) ⭐ 63 | 🐛 3 | 🌐 JavaScript | 📅 2014-09-17 - compiles Javascript code to Dart.
-* [webdev\_proxy](https://github.com/Workiva/webdev_proxy) ⭐ 11 | 🐛 3 | 🌐 JavaScript | 📅 2026-07-31 - A proxy wrapper around [webdev](https://github.com/dart-lang/webdev) ⭐ 224 | 🐛 213 | 🌐 Dart | 📅 2026-08-17 which adds support for rerouting 404s to the index, allowing for HTML push-based routing while running locally.
+* [webdev\_proxy](https://github.com/Workiva/webdev_proxy) ⭐ 11 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-21 - A proxy wrapper around [webdev](https://github.com/dart-lang/webdev) ⭐ 224 | 🐛 212 | 🌐 Dart | 📅 2026-08-17 which adds support for rerouting 404s to the index, allowing for HTML push-based routing while running locally.
 * [gulp-dart](https://github.com/agudulin/gulp-dart) ⚠️ Archived - A gulp plugin for compiling Dart code to JavaScript using dart2js.
 * [DevTools](https://dart.dev/tools/dart-devtools) - a suite of debugging and performance tools for Dart and Flutter.
 * [dart2js](https://www.dartlang.org/tools/dart2js/) - compiles Dart code to JavaScript.
@@ -210,4 +210,4 @@ There are lots of awesome libraries being added to [Pub](https://pub.dartlang.or
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
