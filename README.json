@@ -72,7 +72,7 @@
             "archived": false,
             "id": 7364536,
             "language": "Dart",
-            "last_commit": "2026-06-01T04:37:35Z",
+            "last_commit": "2026-08-24T05:24:14Z",
             "owner": "rikulo",
             "repo": "stream",
             "stars": 237
@@ -147,7 +147,7 @@
             "last_commit": "2026-08-20T13:27:01Z",
             "owner": "flame-engine",
             "repo": "flame",
-            "stars": 10729
+            "stars": 10730
           }
         },
         {
@@ -351,7 +351,7 @@
             "last_commit": "2026-08-19T09:02:01Z",
             "owner": "google",
             "repo": "built_value.dart",
-            "stars": 885
+            "stars": 886
           }
         },
         {
@@ -653,7 +653,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T05:59:01.711Z",
+    "last_updated": "2026-08-24T06:06:37.366Z",
     "original_repository": "yissachar/awesome-dart",
     "original_repository_id": 23129844,
     "original_repository_sha": "116107d93b8bd5afe467728ee1f59f0b79e94d87",

@@ -1,10 +1,10 @@
 # Awesome Dart with stars
 
-A curated list of awesome Dart frameworks, libraries, and software. Items on the list are actively maintained, well documented, and popular in the Dart community. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,043 | 🐛 106 | 📅 2026-08-21 lists.
+A curated list of awesome Dart frameworks, libraries, and software. Items on the list are actively maintained, well documented, and popular in the Dart community. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,368 | 🐛 106 | 📅 2026-08-21 lists.
 
 ### Contributing
 
-Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) first. If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you to all [contributors](https://github.com/yissachar/awesome-dart/graphs/contributors) ⭐ 2,489 | 🐛 24 | 📅 2026-05-24; you rock!
+Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) first. If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you to all [contributors](https://github.com/yissachar/awesome-dart/graphs/contributors) ⭐ 2,489 | 🐛 25 | 📅 2026-05-24; you rock!
 
 ### Contents
 
@@ -46,7 +46,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Alfred](https://github.com/rknell/alfred) ⭐ 532 | 🐛 18 | 🌐 Dart | 📅 2025-05-19 - Minimal ExpressJS-inspired server with routing and middlware.
 * [Start](https://github.com/lvivski/start) ⭐ 530 | 🐛 5 | 🌐 Dart | 📅 2021-05-11 - Sinatra inspired web framework to serve static files, handle dynamic requests, websockets and create JSON responses.
 * [Jaguar](https://github.com/Jaguar-dart/jaguar) ⭐ 471 | 🐛 24 | 🌐 Dart | 📅 2024-09-08 - A server framework built for speed, simplicity and extensibility.
-* [Rikulo Stream](https://github.com/rikulo/stream) ⭐ 237 | 🐛 0 | 🌐 Dart | 📅 2026-06-01 - Lightweight web server with request routing, filtering, template engine, WebSocket, MVC design pattern, and file-based static resources.
+* [Rikulo Stream](https://github.com/rikulo/stream) ⭐ 237 | 🐛 0 | 🌐 Dart | 📅 2026-08-24 - Lightweight web server with request routing, filtering, template engine, WebSocket, MVC design pattern, and file-based static resources.
 * [Vane](https://github.com/Scorpiion/Vane) ⭐ 61 | 🐛 14 | 🌐 Dart | 📅 2019-03-17 - Framework with built-in server runtime environment and middleware system.
 * [Shelf](https://pub.dartlang.org/packages/shelf) - Shelf makes it easy to create and compose web servers and parts of web servers.
   * There are many packages written for Shelf. By convention they start with [shelf\_](https://pub.dartlang.org/search?q=shelf_).
@@ -66,7 +66,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Game Development
 
-* [Flame](https://github.com/luanpotter/flame#readme) ⭐ 10,729 | 🐛 88 | 🌐 Dart | 📅 2026-08-20 - A minimalist Flutter game engine.
+* [Flame](https://github.com/luanpotter/flame#readme) ⭐ 10,730 | 🐛 88 | 🌐 Dart | 📅 2026-08-20 - A minimalist Flutter game engine.
 * [DartRocket](https://github.com/StrykerKKD/dartrocket) ⚠️ Archived - DartRocket is a HTML5 game framework written in Dart and which uses the StageXL rendering engine.
 * [Pixi Dart](https://github.com/FedeOmoto/pixi) ⭐ 35 | 🐛 1 | 🌐 Dart | 📅 2014-11-28 - A port of the pixi.js rendering engine.
 * [Ranger](https://github.com/wdevore/Ranger-Dart) ⭐ 26 | 🐛 0 | 🌐 Dart | 📅 2021-08-31 - A game engine centered around HTML5 Canvas and a scene graph.
@@ -97,7 +97,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ## Utilities
 
 * [Quiver](https://github.com/google/quiver-dart) ⭐ 1,065 | 🐛 57 | 🌐 Dart | 📅 2026-04-02 - A set of utility libraries that makes using many libraries easier and more convenient, or adds additional functionality.
-* [built\_value](https://github.com/google/built_value.dart) ⭐ 885 | 🐛 97 | 🌐 Dart | 📅 2026-08-19 - Immutable value types, enum classes, and serialization.
+* [built\_value](https://github.com/google/built_value.dart) ⭐ 886 | 🐛 96 | 🌐 Dart | 📅 2026-08-19 - Immutable value types, enum classes, and serialization.
 * [built\_collection](https://github.com/google/built_collection.dart) ⭐ 285 | 🐛 25 | 🌐 Dart | 📅 2026-08-03 - Immutable collections via the builder pattern.
 * [Basics](https://github.com/google/dart-basics) ⭐ 165 | 🐛 5 | 🌐 Dart | 📅 2026-08-01 -  A Dart library containing convenient extension methods on basic Dart objects.
 * [route\_hierarchical](https://github.com/angular/route.dart) ⚠️ Archived - Route is a client routing library for Dart that helps make building single-page web apps.
@@ -202,7 +202,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Everything Else
 
-There are lots of awesome libraries being added to [Pub](https://pub.dartlang.org/) all the time. If you can't find a library on this list that meets your needs, go ahead and search for it on Pub. And if you end up finding an awesome library, we would love a pull request with the info so that everyone else can discover it as well. Just make sure to read the [contributing guidelines](https://github.com/yissachar/awesome-dart/blob/master/CONTRIBUTING.md) ⭐ 2,489 | 🐛 24 | 📅 2026-05-24 first.
+There are lots of awesome libraries being added to [Pub](https://pub.dartlang.org/) all the time. If you can't find a library on this list that meets your needs, go ahead and search for it on Pub. And if you end up finding an awesome library, we would love a pull request with the info so that everyone else can discover it as well. Just make sure to read the [contributing guidelines](https://github.com/yissachar/awesome-dart/blob/master/CONTRIBUTING.md) ⭐ 2,489 | 🐛 25 | 📅 2026-05-24 first.
 
 ## License
 
@@ -210,4 +210,4 @@ There are lots of awesome libraries being added to [Pub](https://pub.dartlang.or
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
