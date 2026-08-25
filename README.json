@@ -147,7 +147,7 @@
             "last_commit": "2026-08-20T13:27:01Z",
             "owner": "flame-engine",
             "repo": "flame",
-            "stars": 10731
+            "stars": 10734
           }
         },
         {
@@ -552,7 +552,7 @@
             "last_commit": "2026-08-22T14:50:17Z",
             "owner": "rrousselGit",
             "repo": "freezed",
-            "stars": 2193
+            "stars": 2192
           }
         }
       ],
@@ -570,7 +570,7 @@
             "archived": false,
             "id": 98913726,
             "language": "Dart",
-            "last_commit": "2026-08-24T08:22:27Z",
+            "last_commit": "2026-08-24T17:23:22Z",
             "owner": "getsentry",
             "repo": "sentry-dart",
             "stars": 871
@@ -666,7 +666,7 @@
             "archived": false,
             "id": 190390802,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T17:17:17Z",
+            "last_commit": "2026-08-24T14:10:03Z",
             "owner": "Workiva",
             "repo": "webdev_proxy",
             "stars": 11
@@ -758,7 +758,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:02:49.527Z",
+    "last_updated": "2026-08-25T05:54:39.559Z",
     "original_repository": "yissachar/awesome-dart",
     "original_repository_id": 23129844,
     "original_repository_sha": "116107d93b8bd5afe467728ee1f59f0b79e94d87",
