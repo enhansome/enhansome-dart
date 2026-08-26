@@ -15,7 +15,7 @@
             "last_commit": "2026-08-01T18:44:17Z",
             "owner": "dart-frog-dev",
             "repo": "dart_frog",
-            "stars": 2270
+            "stars": 2268
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2024-09-08T23:00:41Z",
             "owner": "Jaguar-dart",
             "repo": "jaguar",
-            "stars": 471
+            "stars": 470
           }
         },
         {
@@ -147,7 +147,7 @@
             "last_commit": "2026-08-20T13:27:01Z",
             "owner": "flame-engine",
             "repo": "flame",
-            "stars": 10734
+            "stars": 10733
           }
         },
         {
@@ -351,7 +351,7 @@
             "last_commit": "2026-08-19T09:02:01Z",
             "owner": "google",
             "repo": "built_value.dart",
-            "stars": 886
+            "stars": 885
           }
         },
         {
@@ -570,7 +570,7 @@
             "archived": false,
             "id": 98913726,
             "language": "Dart",
-            "last_commit": "2026-08-24T17:23:22Z",
+            "last_commit": "2026-08-26T01:38:24Z",
             "owner": "getsentry",
             "repo": "sentry-dart",
             "stars": 871
@@ -609,7 +609,7 @@
             "last_commit": "2023-07-16T15:30:39Z",
             "owner": "dart-code-checker",
             "repo": "dart-code-metrics",
-            "stars": 863
+            "stars": 864
           }
         },
         {
@@ -758,7 +758,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:27:25.835Z",
+    "last_updated": "2026-08-26T06:03:46.854Z",
     "original_repository": "yissachar/awesome-dart",
     "original_repository_id": 23129844,
     "original_repository_sha": "116107d93b8bd5afe467728ee1f59f0b79e94d87",
