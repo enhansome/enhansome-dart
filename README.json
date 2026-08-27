@@ -144,10 +144,10 @@
             "archived": false,
             "id": 107833072,
             "language": "Dart",
-            "last_commit": "2026-08-20T13:27:01Z",
+            "last_commit": "2026-08-26T15:06:21Z",
             "owner": "flame-engine",
             "repo": "flame",
-            "stars": 10733
+            "stars": 10732
           }
         },
         {
@@ -348,7 +348,7 @@
             "archived": false,
             "id": 39123862,
             "language": "Dart",
-            "last_commit": "2026-08-19T09:02:01Z",
+            "last_commit": "2026-08-27T10:36:26Z",
             "owner": "google",
             "repo": "built_value.dart",
             "stars": 885
@@ -549,10 +549,10 @@
             "archived": false,
             "id": 231861335,
             "language": "Dart",
-            "last_commit": "2026-08-22T14:50:17Z",
+            "last_commit": "2026-08-26T21:00:48Z",
             "owner": "rrousselGit",
             "repo": "freezed",
-            "stars": 2192
+            "stars": 2191
           }
         }
       ],
@@ -570,7 +570,7 @@
             "archived": false,
             "id": 98913726,
             "language": "Dart",
-            "last_commit": "2026-08-26T01:38:24Z",
+            "last_commit": "2026-08-27T10:54:18Z",
             "owner": "getsentry",
             "repo": "sentry-dart",
             "stars": 871
@@ -758,9 +758,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T06:03:46.854Z",
-    "original_repository": "yissachar/awesome-dart",
-    "original_repository_id": 23129844,
+    "last_updated": "2026-08-27T11:34:04.777Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 23129844,
+      "language": null,
+      "last_commit": "2026-05-24T14:40:26Z",
+      "owner": "yissachar",
+      "repo": "awesome-dart",
+      "stars": 2489
+    },
     "original_repository_sha": "116107d93b8bd5afe467728ee1f59f0b79e94d87",
     "enhanced_repository": "enhansome/enhansome-dart",
     "enhanced_repository_description": null,
