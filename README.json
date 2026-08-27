@@ -15,7 +15,7 @@
             "last_commit": "2026-08-01T18:44:17Z",
             "owner": "dart-frog-dev",
             "repo": "dart_frog",
-            "stars": 2268
+            "stars": 2267
           }
         },
         {
@@ -144,7 +144,7 @@
             "archived": false,
             "id": 107833072,
             "language": "Dart",
-            "last_commit": "2026-08-26T15:06:21Z",
+            "last_commit": "2026-08-27T14:41:30Z",
             "owner": "flame-engine",
             "repo": "flame",
             "stars": 10732
@@ -758,7 +758,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:34:04.777Z",
+    "last_updated": "2026-08-27T16:46:52.464Z",
     "original_repository_info": {
       "archived": false,
       "id": 23129844,
