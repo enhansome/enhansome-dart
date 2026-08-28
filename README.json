@@ -16,7 +16,8 @@
             "owner": "dart-frog-dev",
             "repo": "dart_frog",
             "stars": 2267
-          }
+          },
+          "first_seen": "2026-08-28T17:41:09.349Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "rknell",
             "repo": "alfred",
             "stars": 532
-          }
+          },
+          "first_seen": "2026-08-28T17:41:09.349Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "lvivski",
             "repo": "start",
             "stars": 530
-          }
+          },
+          "first_seen": "2026-08-28T17:41:09.349Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "Jaguar-dart",
             "repo": "jaguar",
             "stars": 470
-          }
+          },
+          "first_seen": "2026-08-28T17:41:09.349Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "rikulo",
             "repo": "stream",
             "stars": 237
-          }
+          },
+          "first_seen": "2026-08-28T17:41:09.349Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "Scorpiion",
             "repo": "vane",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T17:41:09.349Z"
         }
       ],
       "title": "Server Frameworks"
@@ -112,7 +118,8 @@
             "owner": "dint-dev",
             "repo": "universal_io",
             "stars": 101
-          }
+          },
+          "first_seen": "2026-08-28T17:41:09.349Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "terrier989",
             "repo": "universal_html",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T17:41:09.349Z"
         }
       ],
       "title": "Cross-platform development"
@@ -144,11 +152,12 @@
             "archived": false,
             "id": 107833072,
             "language": "Dart",
-            "last_commit": "2026-08-27T14:41:30Z",
+            "last_commit": "2026-08-28T15:09:25Z",
             "owner": "flame-engine",
             "repo": "flame",
             "stars": 10732
-          }
+          },
+          "first_seen": "2026-08-28T17:41:09.349Z"
         },
         {
           "node_type": "item",
@@ -163,7 +172,8 @@
             "owner": "StrykerKKD",
             "repo": "dartrocket",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T17:41:09.349Z"
         },
         {
           "node_type": "item",
@@ -178,7 +188,8 @@
             "owner": "FedeOmoto",
             "repo": "pixi",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T17:41:09.349Z"
         },
         {
           "node_type": "item",
@@ -193,7 +204,8 @@
             "owner": "wdevore",
             "repo": "Ranger-Dart",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T17:41:09.349Z"
         }
       ],
       "title": "Game Development"
@@ -214,7 +226,8 @@
             "owner": "xaguzman",
             "repo": "tween-engine-dart",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T17:41:09.349Z"
         },
         {
           "node_type": "item",
@@ -229,7 +242,8 @@
             "owner": "FedeOmoto",
             "repo": "spine",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T17:41:09.349Z"
         }
       ],
       "title": "Animation"
@@ -250,7 +264,8 @@
             "owner": "felangel",
             "repo": "mason",
             "stars": 1134
-          }
+          },
+          "first_seen": "2026-08-28T17:41:09.349Z"
         },
         {
           "node_type": "item",
@@ -265,7 +280,8 @@
             "owner": "dartist",
             "repo": "jaded",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T17:41:09.349Z"
         }
       ],
       "title": "Template"
@@ -286,7 +302,8 @@
             "owner": "stablekernel",
             "repo": "postgresql-dart",
             "stars": 128
-          }
+          },
+          "first_seen": "2026-08-28T17:41:09.349Z"
         },
         {
           "node_type": "item",
@@ -301,7 +318,8 @@
             "owner": "xxgreg",
             "repo": "dart_postgresql",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-28T17:41:09.349Z"
         },
         {
           "node_type": "item",
@@ -316,7 +334,8 @@
             "owner": "jamesots",
             "repo": "sqljocky",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T17:41:09.349Z"
         }
       ],
       "title": "Database"
@@ -337,7 +356,8 @@
             "owner": "google",
             "repo": "quiver-dart",
             "stars": 1065
-          }
+          },
+          "first_seen": "2026-08-28T17:41:09.349Z"
         },
         {
           "node_type": "item",
@@ -352,7 +372,8 @@
             "owner": "google",
             "repo": "built_value.dart",
             "stars": 885
-          }
+          },
+          "first_seen": "2026-08-28T17:41:09.349Z"
         },
         {
           "node_type": "item",
@@ -367,7 +388,8 @@
             "owner": "google",
             "repo": "built_collection.dart",
             "stars": 285
-          }
+          },
+          "first_seen": "2026-08-28T17:41:09.349Z"
         },
         {
           "node_type": "item",
@@ -382,7 +404,8 @@
             "owner": "google",
             "repo": "dart-basics",
             "stars": 165
-          }
+          },
+          "first_seen": "2026-08-28T17:41:09.349Z"
         },
         {
           "node_type": "item",
@@ -397,7 +420,8 @@
             "owner": "dart-archive",
             "repo": "route.dart",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T17:41:09.349Z"
         }
       ],
       "title": "Utilities"
@@ -418,7 +442,8 @@
             "owner": "google",
             "repo": "inject.dart",
             "stars": 860
-          }
+          },
+          "first_seen": "2026-08-28T17:41:09.349Z"
         },
         {
           "node_type": "item",
@@ -433,7 +458,8 @@
             "owner": "marcguilera",
             "repo": "dependencies.dart",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T17:41:09.349Z"
         }
       ],
       "title": "Dependency Injection"
@@ -454,7 +480,8 @@
             "owner": "petitparser",
             "repo": "dart-petitparser",
             "stars": 488
-          }
+          },
+          "first_seen": "2026-08-28T17:41:09.349Z"
         },
         {
           "node_type": "item",
@@ -469,7 +496,8 @@
             "owner": "dart-archive",
             "repo": "markdown",
             "stars": 475
-          }
+          },
+          "first_seen": "2026-08-28T17:41:09.349Z"
         }
       ],
       "title": "Parsers"
@@ -490,7 +518,8 @@
             "owner": "vadimtsushko",
             "repo": "objectory",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T17:41:09.349Z"
         }
       ],
       "title": "ORM"
@@ -511,7 +540,8 @@
             "owner": "brendan-duncan",
             "repo": "image",
             "stars": 1263
-          }
+          },
+          "first_seen": "2026-08-28T17:41:09.349Z"
         }
       ],
       "title": "Image"
@@ -532,7 +562,8 @@
             "owner": "vsavkin",
             "repo": "guinness",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T17:41:09.349Z"
         }
       ],
       "title": "Testing"
@@ -553,7 +584,8 @@
             "owner": "rrousselGit",
             "repo": "freezed",
             "stars": 2191
-          }
+          },
+          "first_seen": "2026-08-28T17:41:09.349Z"
         }
       ],
       "title": "Unions"
@@ -570,11 +602,12 @@
             "archived": false,
             "id": 98913726,
             "language": "Dart",
-            "last_commit": "2026-08-27T10:54:18Z",
+            "last_commit": "2026-08-28T17:10:47Z",
             "owner": "getsentry",
             "repo": "sentry-dart",
             "stars": 871
-          }
+          },
+          "first_seen": "2026-08-28T17:41:09.349Z"
         }
       ],
       "title": "Crash monitoring"
@@ -595,7 +628,8 @@
             "owner": "BayesWitnesses",
             "repo": "m2cgen",
             "stars": 2998
-          }
+          },
+          "first_seen": "2026-08-28T17:41:09.349Z"
         },
         {
           "node_type": "item",
@@ -610,7 +644,8 @@
             "owner": "dart-code-checker",
             "repo": "dart-code-metrics",
             "stars": 864
-          }
+          },
+          "first_seen": "2026-08-28T17:41:09.349Z"
         },
         {
           "node_type": "item",
@@ -625,7 +660,8 @@
             "owner": "dart-archive",
             "repo": "stagehand",
             "stars": 644
-          }
+          },
+          "first_seen": "2026-08-28T17:41:09.349Z"
         },
         {
           "node_type": "item",
@@ -640,7 +676,8 @@
             "owner": "dart-archive",
             "repo": "dev_compiler",
             "stars": 131
-          }
+          },
+          "first_seen": "2026-08-28T17:41:09.349Z"
         },
         {
           "node_type": "item",
@@ -655,7 +692,8 @@
             "owner": "vojtajina",
             "repo": "js2dart",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T17:41:09.349Z"
         },
         {
           "node_type": "item",
@@ -670,7 +708,8 @@
             "owner": "Workiva",
             "repo": "webdev_proxy",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T17:41:09.349Z"
         },
         {
           "node_type": "item",
@@ -685,7 +724,8 @@
             "owner": "agudulin",
             "repo": "gulp-dart",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T17:41:09.349Z"
         }
       ],
       "title": "Tools"
@@ -706,7 +746,8 @@
             "owner": "dart-lang",
             "repo": "dart-vim-plugin",
             "stars": 652
-          }
+          },
+          "first_seen": "2026-08-28T17:41:09.349Z"
         },
         {
           "node_type": "item",
@@ -721,7 +762,8 @@
             "owner": "guillermooo",
             "repo": "dart-sublime-bundle",
             "stars": 261
-          }
+          },
+          "first_seen": "2026-08-28T17:41:09.349Z"
         },
         {
           "node_type": "item",
@@ -736,7 +778,8 @@
             "owner": "mikededo",
             "repo": "dart-barrel-file-generator",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T17:41:09.349Z"
         },
         {
           "node_type": "item",
@@ -751,14 +794,15 @@
             "owner": "emacsorphanage",
             "repo": "dart-mode",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T17:41:09.349Z"
         }
       ],
       "title": "IDEs, Editors, and Plugins"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:46:52.464Z",
+    "last_updated": "2026-08-28T17:41:09.349Z",
     "original_repository_info": {
       "archived": false,
       "id": 23129844,
@@ -766,7 +810,7 @@
       "last_commit": "2026-05-24T14:40:26Z",
       "owner": "yissachar",
       "repo": "awesome-dart",
-      "stars": 2489
+      "stars": 2490
     },
     "original_repository_sha": "116107d93b8bd5afe467728ee1f59f0b79e94d87",
     "enhanced_repository": "enhansome/enhansome-dart",
