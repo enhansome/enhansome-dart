@@ -1,6 +1,6 @@
 # Awesome Dart with stars
 
-A curated list of awesome Dart frameworks, libraries, and software. Items on the list are actively maintained, well documented, and popular in the Dart community. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,586 | 🐛 105 | 📅 2026-08-21 lists.
+A curated list of awesome Dart frameworks, libraries, and software. Items on the list are actively maintained, well documented, and popular in the Dart community. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,862 | 🐛 105 | 📅 2026-08-21 lists.
 
 ### Contributing
 
@@ -66,7 +66,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Game Development
 
-* [Flame](https://github.com/luanpotter/flame#readme) ⭐ 10,737 | 🐛 85 | 🌐 Dart | 📅 2026-08-31 - A minimalist Flutter game engine.
+* [Flame](https://github.com/luanpotter/flame#readme) ⭐ 10,737 | 🐛 84 | 🌐 Dart | 📅 2026-09-01 - A minimalist Flutter game engine.
 * [DartRocket](https://github.com/StrykerKKD/dartrocket) ⚠️ Archived - DartRocket is a HTML5 game framework written in Dart and which uses the StageXL rendering engine.
 * [Pixi Dart](https://github.com/FedeOmoto/pixi) ⭐ 35 | 🐛 1 | 🌐 Dart | 📅 2014-11-28 - A port of the pixi.js rendering engine.
 * [Ranger](https://github.com/wdevore/Ranger-Dart) ⭐ 26 | 🐛 0 | 🌐 Dart | 📅 2021-08-31 - A game engine centered around HTML5 Canvas and a scene graph.
@@ -97,8 +97,8 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ## Utilities
 
 * [Quiver](https://github.com/google/quiver-dart) ⭐ 1,065 | 🐛 57 | 🌐 Dart | 📅 2026-04-02 - A set of utility libraries that makes using many libraries easier and more convenient, or adds additional functionality.
-* [built\_value](https://github.com/google/built_value.dart) ⭐ 885 | 🐛 96 | 🌐 Dart | 📅 2026-08-27 - Immutable value types, enum classes, and serialization.
-* [built\_collection](https://github.com/google/built_collection.dart) ⭐ 285 | 🐛 25 | 🌐 Dart | 📅 2026-08-03 - Immutable collections via the builder pattern.
+* [built\_value](https://github.com/google/built_value.dart) ⭐ 886 | 🐛 97 | 🌐 Dart | 📅 2026-09-01 - Immutable value types, enum classes, and serialization.
+* [built\_collection](https://github.com/google/built_collection.dart) ⭐ 285 | 🐛 25 | 🌐 Dart | 📅 2026-09-01 - Immutable collections via the builder pattern.
 * [Basics](https://github.com/google/dart-basics) ⭐ 165 | 🐛 5 | 🌐 Dart | 📅 2026-08-01 -  A Dart library containing convenient extension methods on basic Dart objects.
 * [route\_hierarchical](https://github.com/angular/route.dart) ⚠️ Archived - Route is a client routing library for Dart that helps make building single-page web apps.
 * [Archive](https://pub.dartlang.org/packages/archive) - A library to encode and decode various archive and compression formats.
@@ -146,11 +146,11 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Crash monitoring
 
-* [Sentry](https://github.com/getsentry/sentry-dart) ⭐ 871 | 🐛 124 | 🌐 Dart | 📅 2026-08-31 - Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time.
+* [Sentry](https://github.com/getsentry/sentry-dart) ⭐ 871 | 🐛 119 | 🌐 Dart | 📅 2026-08-31 - Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time.
 
 ## Tools
 
-* [m2cgen](https://github.com/BayesWitnesses/m2cgen) ⭐ 2,998 | 🐛 62 | 🌐 Python | 📅 2024-08-03 - A CLI tool to transpile trained classic ML models into a native Dart code with zero dependencies.
+* [m2cgen](https://github.com/BayesWitnesses/m2cgen) ⭐ 2,999 | 🐛 62 | 🌐 Python | 📅 2024-08-03 - A CLI tool to transpile trained classic ML models into a native Dart code with zero dependencies.
 * [Dart Code Metrics](https://github.com/dart-code-checker/dart-code-metrics) ⚠️ Archived - Additional linter which reports code metrics, checks for anti-patterns and provides additional rules for Analyzer.
 * [Stagehand](https://github.com/dart-lang/stagehand) ⚠️ Archived - A project scaffolding generator, inspired by tools like Web Starter Kit and Yeoman.
 * [dev\_compiler](https://github.com/dart-lang/dev_compiler) ⚠️ Archived - Dart to JavaScript compiler designed to create idiomatic, readable JavaScript output.
@@ -210,4 +210,4 @@ There are lots of awesome libraries being added to [Pub](https://pub.dartlang.or
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
