@@ -19,7 +19,7 @@
             "open_issues": 112,
             "owner": "dart-frog-dev",
             "repo": "dart_frog",
-            "stars": 2269,
+            "stars": 2267,
             "topics": [
               "backend",
               "backend-framework",
@@ -226,7 +226,7 @@
             "open_issues": 84,
             "owner": "flame-engine",
             "repo": "flame",
-            "stars": 10737,
+            "stars": 10739,
             "topics": [
               "dart",
               "flame",
@@ -671,7 +671,7 @@
             "id": 4460928,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-08-12T21:18:52Z",
+            "last_commit": "2026-09-02T21:28:26Z",
             "open_issues": 5,
             "owner": "petitparser",
             "repo": "dart-petitparser",
@@ -860,8 +860,8 @@
             "id": 98913726,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-09-01T15:46:09Z",
-            "open_issues": 119,
+            "last_commit": "2026-09-03T06:32:34Z",
+            "open_issues": 121,
             "owner": "getsentry",
             "repo": "sentry-dart",
             "stars": 871,
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T09:52:47.300Z",
+    "last_updated": "2026-09-03T10:03:50.033Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Dart frameworks, libraries, and software",
