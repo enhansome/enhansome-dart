@@ -222,8 +222,8 @@
             "id": 107833072,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-09-03T23:57:31Z",
-            "open_issues": 86,
+            "last_commit": "2026-09-04T17:48:50Z",
+            "open_issues": 85,
             "owner": "flame-engine",
             "repo": "flame",
             "stars": 10739,
@@ -666,12 +666,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Dynamic parser combinators in Dart.",
+            "description": "Build fast, composable, and type-safe grammars and parsers in Dart.",
             "homepage": "https://pub.dartlang.org/packages/petitparser",
             "id": 4460928,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-09-02T21:28:26Z",
+            "last_commit": "2026-09-05T08:44:30Z",
             "open_issues": 5,
             "owner": "petitparser",
             "repo": "dart-petitparser",
@@ -762,10 +762,10 @@
             "language": "Dart",
             "license": "MIT",
             "last_commit": "2026-08-19T05:04:05Z",
-            "open_issues": 56,
+            "open_issues": 57,
             "owner": "brendan-duncan",
             "repo": "image",
-            "stars": 1263,
+            "stars": 1264,
             "topics": [
               "dart",
               "dart-library",
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T09:54:20.239Z",
+    "last_updated": "2026-09-05T09:18:10.808Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Dart frameworks, libraries, and software",
