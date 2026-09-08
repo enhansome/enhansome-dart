@@ -16,7 +16,7 @@
             "language": "Dart",
             "license": "MIT",
             "last_commit": "2026-09-01T18:53:52Z",
-            "open_issues": 112,
+            "open_issues": 113,
             "owner": "dart-frog-dev",
             "repo": "dart_frog",
             "stars": 2267,
@@ -222,11 +222,11 @@
             "id": 107833072,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-09-04T17:48:50Z",
-            "open_issues": 85,
+            "last_commit": "2026-09-07T13:01:37Z",
+            "open_issues": 83,
             "owner": "flame-engine",
             "repo": "flame",
-            "stars": 10741,
+            "stars": 10744,
             "topics": [
               "dart",
               "flame",
@@ -375,7 +375,7 @@
             "open_issues": 100,
             "owner": "felangel",
             "repo": "mason",
-            "stars": 1133,
+            "stars": 1134,
             "topics": [
               "bricks",
               "cli",
@@ -761,7 +761,7 @@
             "id": 15776193,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-09-06T18:20:08Z",
+            "last_commit": "2026-09-07T18:42:26Z",
             "open_issues": 56,
             "owner": "brendan-duncan",
             "repo": "image",
@@ -860,11 +860,11 @@
             "id": 98913726,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-09-07T10:22:38Z",
+            "last_commit": "2026-09-08T08:48:29Z",
             "open_issues": 119,
             "owner": "getsentry",
             "repo": "sentry-dart",
-            "stars": 871,
+            "stars": 872,
             "topics": [
               "crash-reporting",
               "dart",
@@ -900,7 +900,7 @@
             "open_issues": 62,
             "owner": "BayesWitnesses",
             "repo": "m2cgen",
-            "stars": 3001,
+            "stars": 3000,
             "topics": [
               "c",
               "csharp",
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T10:41:41.763Z",
+    "last_updated": "2026-09-08T10:03:41.510Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Dart frameworks, libraries, and software",
