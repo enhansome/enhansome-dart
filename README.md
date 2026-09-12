@@ -1,6 +1,6 @@
 # Awesome Dart with stars
 
-A curated list of awesome Dart frameworks, libraries, and software. Items on the list are actively maintained, well documented, and popular in the Dart community. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,982 | 🐛 106 | 📅 2026-09-02 lists.
+A curated list of awesome Dart frameworks, libraries, and software. Items on the list are actively maintained, well documented, and popular in the Dart community. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 505,269 | 🐛 106 | 📅 2026-09-02 lists.
 
 ### Contributing
 
@@ -57,7 +57,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Other Frameworks
 
-* [Rapid Open Hardware Development (ROHD) Framework](https://github.com/intel/rohd) ⭐ 488 | 🐛 146 | 🌐 Dart | 📅 2026-09-04 - A framework for describing and verifying hardware.
+* [Rapid Open Hardware Development (ROHD) Framework](https://github.com/intel/rohd) ⭐ 488 | 🐛 143 | 🌐 Dart | 📅 2026-09-12 - A framework for describing and verifying hardware.
 
 ## Cross-platform development
 
@@ -146,7 +146,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Crash monitoring
 
-* [Sentry](https://github.com/getsentry/sentry-dart) ⭐ 872 | 🐛 114 | 🌐 Dart | 📅 2026-09-10 - Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time.
+* [Sentry](https://github.com/getsentry/sentry-dart) ⭐ 872 | 🐛 114 | 🌐 Dart | 📅 2026-09-12 - Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time.
 
 ## Tools
 
@@ -155,7 +155,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Stagehand](https://github.com/dart-lang/stagehand) ⚠️ Archived - A project scaffolding generator, inspired by tools like Web Starter Kit and Yeoman.
 * [dev\_compiler](https://github.com/dart-lang/dev_compiler) ⚠️ Archived - Dart to JavaScript compiler designed to create idiomatic, readable JavaScript output.
 * [js2dart](https://github.com/vojtajina/js2dart) ⭐ 63 | 🐛 3 | 🌐 JavaScript | 📅 2014-09-17 - compiles Javascript code to Dart.
-* [webdev\_proxy](https://github.com/Workiva/webdev_proxy) ⭐ 11 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-29 - A proxy wrapper around [webdev](https://github.com/dart-lang/webdev) ⭐ 224 | 🐛 213 | 🌐 Dart | 📅 2026-09-09 which adds support for rerouting 404s to the index, allowing for HTML push-based routing while running locally.
+* [webdev\_proxy](https://github.com/Workiva/webdev_proxy) ⭐ 11 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-29 - A proxy wrapper around [webdev](https://github.com/dart-lang/webdev) ⭐ 224 | 🐛 213 | 🌐 Dart | 📅 2026-09-11 which adds support for rerouting 404s to the index, allowing for HTML push-based routing while running locally.
 * [gulp-dart](https://github.com/agudulin/gulp-dart) ⚠️ Archived - A gulp plugin for compiling Dart code to JavaScript using dart2js.
 * [DevTools](https://dart.dev/tools/dart-devtools) - a suite of debugging and performance tools for Dart and Flutter.
 * [dart2js](https://www.dartlang.org/tools/dart2js/) - compiles Dart code to JavaScript.
@@ -210,4 +210,4 @@ There are lots of awesome libraries being added to [Pub](https://pub.dartlang.or
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._

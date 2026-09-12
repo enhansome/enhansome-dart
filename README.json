@@ -671,7 +671,7 @@
             "id": 4460928,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-09-11T06:19:42Z",
+            "last_commit": "2026-09-11T16:08:16Z",
             "open_issues": 5,
             "owner": "petitparser",
             "repo": "dart-petitparser",
@@ -860,7 +860,7 @@
             "id": 98913726,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-09-10T16:08:02Z",
+            "last_commit": "2026-09-12T03:05:27Z",
             "open_issues": 114,
             "owner": "getsentry",
             "repo": "sentry-dart",
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T09:59:04.448Z",
+    "last_updated": "2026-09-12T09:33:19.581Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Dart frameworks, libraries, and software",
