@@ -222,11 +222,11 @@
             "id": 107833072,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-09-14T08:00:35Z",
-            "open_issues": 84,
+            "last_commit": "2026-09-14T19:16:42Z",
+            "open_issues": 83,
             "owner": "flame-engine",
             "repo": "flame",
-            "stars": 10754,
+            "stars": 10753,
             "topics": [
               "dart",
               "flame",
@@ -375,7 +375,7 @@
             "open_issues": 100,
             "owner": "felangel",
             "repo": "mason",
-            "stars": 1134,
+            "stars": 1135,
             "topics": [
               "bricks",
               "cli",
@@ -675,7 +675,7 @@
             "open_issues": 5,
             "owner": "petitparser",
             "repo": "dart-petitparser",
-            "stars": 488,
+            "stars": 489,
             "topics": [
               "dart",
               "flutter",
@@ -831,7 +831,7 @@
             "open_issues": 115,
             "owner": "rrousselGit",
             "repo": "freezed",
-            "stars": 2191,
+            "stars": 2189,
             "topics": [
               "code-generator",
               "dart",
@@ -860,7 +860,7 @@
             "id": 98913726,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-09-14T08:07:18Z",
+            "last_commit": "2026-09-15T09:42:22Z",
             "open_issues": 113,
             "owner": "getsentry",
             "repo": "sentry-dart",
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T10:56:39.800Z",
+    "last_updated": "2026-09-15T10:24:12.992Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Dart frameworks, libraries, and software",
@@ -1181,7 +1181,7 @@
       "open_issues": 28,
       "owner": "yissachar",
       "repo": "awesome-dart",
-      "stars": 2491,
+      "stars": 2492,
       "topics": [
         "awesome",
         "awesome-list",
