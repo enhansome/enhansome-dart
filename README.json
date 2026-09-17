@@ -675,7 +675,7 @@
             "open_issues": 5,
             "owner": "petitparser",
             "repo": "dart-petitparser",
-            "stars": 489,
+            "stars": 488,
             "topics": [
               "dart",
               "flutter",
@@ -761,8 +761,8 @@
             "id": 15776193,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-09-13T21:25:31Z",
-            "open_issues": 58,
+            "last_commit": "2026-09-17T03:24:14Z",
+            "open_issues": 57,
             "owner": "brendan-duncan",
             "repo": "image",
             "stars": 1265,
@@ -831,7 +831,7 @@
             "open_issues": 115,
             "owner": "rrousselGit",
             "repo": "freezed",
-            "stars": 2190,
+            "stars": 2191,
             "topics": [
               "code-generator",
               "dart",
@@ -860,8 +860,8 @@
             "id": 98913726,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-09-16T09:32:11Z",
-            "open_issues": 116,
+            "last_commit": "2026-09-17T09:21:24Z",
+            "open_issues": 119,
             "owner": "getsentry",
             "repo": "sentry-dart",
             "stars": 873,
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T10:16:00.924Z",
+    "last_updated": "2026-09-17T10:23:27.853Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Dart frameworks, libraries, and software",
@@ -1181,7 +1181,7 @@
       "open_issues": 28,
       "owner": "yissachar",
       "repo": "awesome-dart",
-      "stars": 2492,
+      "stars": 2493,
       "topics": [
         "awesome",
         "awesome-list",
