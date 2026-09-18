@@ -19,7 +19,7 @@
             "open_issues": 113,
             "owner": "dart-frog-dev",
             "repo": "dart_frog",
-            "stars": 2268,
+            "stars": 2267,
             "topics": [
               "backend",
               "backend-framework",
@@ -226,7 +226,7 @@
             "open_issues": 84,
             "owner": "flame-engine",
             "repo": "flame",
-            "stars": 10753,
+            "stars": 10757,
             "topics": [
               "dart",
               "flame",
@@ -831,7 +831,7 @@
             "open_issues": 115,
             "owner": "rrousselGit",
             "repo": "freezed",
-            "stars": 2191,
+            "stars": 2192,
             "topics": [
               "code-generator",
               "dart",
@@ -860,11 +860,11 @@
             "id": 98913726,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-09-17T09:21:24Z",
+            "last_commit": "2026-09-18T09:42:25Z",
             "open_issues": 119,
             "owner": "getsentry",
             "repo": "sentry-dart",
-            "stars": 873,
+            "stars": 874,
             "topics": [
               "crash-reporting",
               "dart",
@@ -900,7 +900,7 @@
             "open_issues": 62,
             "owner": "BayesWitnesses",
             "repo": "m2cgen",
-            "stars": 3002,
+            "stars": 3003,
             "topics": [
               "c",
               "csharp",
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T10:23:27.853Z",
+    "last_updated": "2026-09-18T10:01:34.653Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Dart frameworks, libraries, and software",
