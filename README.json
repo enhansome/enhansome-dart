@@ -761,7 +761,7 @@
             "id": 15776193,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-09-17T03:24:14Z",
+            "last_commit": "2026-09-20T15:42:57Z",
             "open_issues": 57,
             "owner": "brendan-duncan",
             "repo": "image",
@@ -860,8 +860,8 @@
             "id": 98913726,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-09-20T03:06:21Z",
-            "open_issues": 123,
+            "last_commit": "2026-09-21T09:32:17Z",
+            "open_issues": 120,
             "owner": "getsentry",
             "repo": "sentry-dart",
             "stars": 874,
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T10:03:55.298Z",
+    "last_updated": "2026-09-21T11:04:04.707Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Dart frameworks, libraries, and software",
@@ -1181,7 +1181,7 @@
       "open_issues": 28,
       "owner": "yissachar",
       "repo": "awesome-dart",
-      "stars": 2494,
+      "stars": 2495,
       "topics": [
         "awesome",
         "awesome-list",

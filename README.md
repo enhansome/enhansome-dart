@@ -1,10 +1,10 @@
 # Awesome Dart with stars
 
-A curated list of awesome Dart frameworks, libraries, and software. Items on the list are actively maintained, well documented, and popular in the Dart community. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 508,024 | 🐛 106 | 📅 2026-09-02 lists.
+A curated list of awesome Dart frameworks, libraries, and software. Items on the list are actively maintained, well documented, and popular in the Dart community. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 508,410 | 🐛 106 | 📅 2026-09-02 lists.
 
 ### Contributing
 
-Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) first. If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you to all [contributors](https://github.com/yissachar/awesome-dart/graphs/contributors) ⭐ 2,494 | 🐛 28 | 📅 2026-05-24; you rock!
+Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) first. If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you to all [contributors](https://github.com/yissachar/awesome-dart/graphs/contributors) ⭐ 2,495 | 🐛 28 | 📅 2026-05-24; you rock!
 
 ### Contents
 
@@ -57,7 +57,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Other Frameworks
 
-* [Rapid Open Hardware Development (ROHD) Framework](https://github.com/intel/rohd) ⭐ 489 | 🐛 142 | 🌐 Dart | 📅 2026-09-18 - A framework for describing and verifying hardware.
+* [Rapid Open Hardware Development (ROHD) Framework](https://github.com/intel/rohd) ⭐ 489 | 🐛 145 | 🌐 Dart | 📅 2026-09-18 - A framework for describing and verifying hardware.
 
 ## Cross-platform development
 
@@ -132,7 +132,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Image
 
-* [image](https://github.com/brendan-duncan/image) ⭐ 1,265 | 🐛 57 | 🌐 Dart | 📅 2026-09-17 - Provides server and web apps the ability to load, manipulate, and save images with various image file formats including PNG, JPEG, GIF, WebP, TIFF, TGA, PSD, PVR, and OpenEXR.
+* [image](https://github.com/brendan-duncan/image) ⭐ 1,265 | 🐛 57 | 🌐 Dart | 📅 2026-09-20 - Provides server and web apps the ability to load, manipulate, and save images with various image file formats including PNG, JPEG, GIF, WebP, TIFF, TGA, PSD, PVR, and OpenEXR.
 
 ## Testing
 
@@ -146,7 +146,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Crash monitoring
 
-* [Sentry](https://github.com/getsentry/sentry-dart) ⭐ 874 | 🐛 123 | 🌐 Dart | 📅 2026-09-20 - Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time.
+* [Sentry](https://github.com/getsentry/sentry-dart) ⭐ 874 | 🐛 120 | 🌐 Dart | 📅 2026-09-21 - Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time.
 
 ## Tools
 
@@ -155,7 +155,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Stagehand](https://github.com/dart-lang/stagehand) ⚠️ Archived - A project scaffolding generator, inspired by tools like Web Starter Kit and Yeoman.
 * [dev\_compiler](https://github.com/dart-lang/dev_compiler) ⚠️ Archived - Dart to JavaScript compiler designed to create idiomatic, readable JavaScript output.
 * [js2dart](https://github.com/vojtajina/js2dart) ⭐ 63 | 🐛 3 | 🌐 JavaScript | 📅 2014-09-17 - compiles Javascript code to Dart.
-* [webdev\_proxy](https://github.com/Workiva/webdev_proxy) ⭐ 11 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-29 - A proxy wrapper around [webdev](https://github.com/dart-lang/webdev) ⭐ 224 | 🐛 212 | 🌐 Dart | 📅 2026-09-17 which adds support for rerouting 404s to the index, allowing for HTML push-based routing while running locally.
+* [webdev\_proxy](https://github.com/Workiva/webdev_proxy) ⭐ 11 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-29 - A proxy wrapper around [webdev](https://github.com/dart-lang/webdev) ⭐ 224 | 🐛 212 | 🌐 Dart | 📅 2026-09-21 which adds support for rerouting 404s to the index, allowing for HTML push-based routing while running locally.
 * [gulp-dart](https://github.com/agudulin/gulp-dart) ⚠️ Archived - A gulp plugin for compiling Dart code to JavaScript using dart2js.
 * [DevTools](https://dart.dev/tools/dart-devtools) - a suite of debugging and performance tools for Dart and Flutter.
 * [dart2js](https://www.dartlang.org/tools/dart2js/) - compiles Dart code to JavaScript.
@@ -202,7 +202,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Everything Else
 
-There are lots of awesome libraries being added to [Pub](https://pub.dartlang.org/) all the time. If you can't find a library on this list that meets your needs, go ahead and search for it on Pub. And if you end up finding an awesome library, we would love a pull request with the info so that everyone else can discover it as well. Just make sure to read the [contributing guidelines](https://github.com/yissachar/awesome-dart/blob/master/CONTRIBUTING.md) ⭐ 2,494 | 🐛 28 | 📅 2026-05-24 first.
+There are lots of awesome libraries being added to [Pub](https://pub.dartlang.org/) all the time. If you can't find a library on this list that meets your needs, go ahead and search for it on Pub. And if you end up finding an awesome library, we would love a pull request with the info so that everyone else can discover it as well. Just make sure to read the [contributing guidelines](https://github.com/yissachar/awesome-dart/blob/master/CONTRIBUTING.md) ⭐ 2,495 | 🐛 28 | 📅 2026-05-24 first.
 
 ## License
 
@@ -210,4 +210,4 @@ There are lots of awesome libraries being added to [Pub](https://pub.dartlang.or
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
