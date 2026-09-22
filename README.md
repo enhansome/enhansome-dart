@@ -1,6 +1,6 @@
 # Awesome Dart with stars
 
-A curated list of awesome Dart frameworks, libraries, and software. Items on the list are actively maintained, well documented, and popular in the Dart community. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 508,410 | 🐛 106 | 📅 2026-09-02 lists.
+A curated list of awesome Dart frameworks, libraries, and software. Items on the list are actively maintained, well documented, and popular in the Dart community. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 508,788 | 🐛 106 | 📅 2026-09-02 lists.
 
 ### Contributing
 
@@ -45,7 +45,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Dart Frog](https://github.com/VeryGoodOpenSource/dart_frog) ⭐ 2,270 | 🐛 113 | 🌐 Dart | 📅 2026-09-01 -  A fast, minimalistic backend framework for Dart.
 * [Alfred](https://github.com/rknell/alfred) ⭐ 532 | 🐛 18 | 🌐 Dart | 📅 2025-05-19 - Minimal ExpressJS-inspired server with routing and middlware.
 * [Start](https://github.com/lvivski/start) ⭐ 530 | 🐛 5 | 🌐 Dart | 📅 2021-05-11 - Sinatra inspired web framework to serve static files, handle dynamic requests, websockets and create JSON responses.
-* [Jaguar](https://github.com/Jaguar-dart/jaguar) ⭐ 470 | 🐛 24 | 🌐 Dart | 📅 2024-09-08 - A server framework built for speed, simplicity and extensibility.
+* [Jaguar](https://github.com/Jaguar-dart/jaguar) ⭐ 469 | 🐛 24 | 🌐 Dart | 📅 2024-09-08 - A server framework built for speed, simplicity and extensibility.
 * [Rikulo Stream](https://github.com/rikulo/stream) ⭐ 237 | 🐛 0 | 🌐 Dart | 📅 2026-08-24 - Lightweight web server with request routing, filtering, template engine, WebSocket, MVC design pattern, and file-based static resources.
 * [Vane](https://github.com/Scorpiion/Vane) ⭐ 61 | 🐛 14 | 🌐 Dart | 📅 2019-03-17 - Framework with built-in server runtime environment and middleware system.
 * [Shelf](https://pub.dartlang.org/packages/shelf) - Shelf makes it easy to create and compose web servers and parts of web servers.
@@ -57,7 +57,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Other Frameworks
 
-* [Rapid Open Hardware Development (ROHD) Framework](https://github.com/intel/rohd) ⭐ 489 | 🐛 145 | 🌐 Dart | 📅 2026-09-18 - A framework for describing and verifying hardware.
+* [Rapid Open Hardware Development (ROHD) Framework](https://github.com/intel/rohd) ⭐ 489 | 🐛 147 | 🌐 Dart | 📅 2026-09-18 - A framework for describing and verifying hardware.
 
 ## Cross-platform development
 
@@ -66,7 +66,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Game Development
 
-* [Flame](https://github.com/luanpotter/flame#readme) ⭐ 10,760 | 🐛 85 | 🌐 Dart | 📅 2026-09-18 - A minimalist Flutter game engine.
+* [Flame](https://github.com/luanpotter/flame#readme) ⭐ 10,764 | 🐛 83 | 🌐 Dart | 📅 2026-09-22 - A minimalist Flutter game engine.
 * [DartRocket](https://github.com/StrykerKKD/dartrocket) ⚠️ Archived - DartRocket is a HTML5 game framework written in Dart and which uses the StageXL rendering engine.
 * [Pixi Dart](https://github.com/FedeOmoto/pixi) ⭐ 35 | 🐛 1 | 🌐 Dart | 📅 2014-11-28 - A port of the pixi.js rendering engine.
 * [Ranger](https://github.com/wdevore/Ranger-Dart) ⭐ 26 | 🐛 0 | 🌐 Dart | 📅 2021-08-31 - A game engine centered around HTML5 Canvas and a scene graph.
@@ -132,7 +132,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Image
 
-* [image](https://github.com/brendan-duncan/image) ⭐ 1,265 | 🐛 57 | 🌐 Dart | 📅 2026-09-20 - Provides server and web apps the ability to load, manipulate, and save images with various image file formats including PNG, JPEG, GIF, WebP, TIFF, TGA, PSD, PVR, and OpenEXR.
+* [image](https://github.com/brendan-duncan/image) ⭐ 1,265 | 🐛 58 | 🌐 Dart | 📅 2026-09-20 - Provides server and web apps the ability to load, manipulate, and save images with various image file formats including PNG, JPEG, GIF, WebP, TIFF, TGA, PSD, PVR, and OpenEXR.
 
 ## Testing
 
@@ -146,7 +146,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Crash monitoring
 
-* [Sentry](https://github.com/getsentry/sentry-dart) ⭐ 874 | 🐛 120 | 🌐 Dart | 📅 2026-09-21 - Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time.
+* [Sentry](https://github.com/getsentry/sentry-dart) ⭐ 874 | 🐛 125 | 🌐 Dart | 📅 2026-09-22 - Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time.
 
 ## Tools
 
@@ -155,7 +155,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Stagehand](https://github.com/dart-lang/stagehand) ⚠️ Archived - A project scaffolding generator, inspired by tools like Web Starter Kit and Yeoman.
 * [dev\_compiler](https://github.com/dart-lang/dev_compiler) ⚠️ Archived - Dart to JavaScript compiler designed to create idiomatic, readable JavaScript output.
 * [js2dart](https://github.com/vojtajina/js2dart) ⭐ 63 | 🐛 3 | 🌐 JavaScript | 📅 2014-09-17 - compiles Javascript code to Dart.
-* [webdev\_proxy](https://github.com/Workiva/webdev_proxy) ⭐ 11 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-29 - A proxy wrapper around [webdev](https://github.com/dart-lang/webdev) ⭐ 224 | 🐛 212 | 🌐 Dart | 📅 2026-09-21 which adds support for rerouting 404s to the index, allowing for HTML push-based routing while running locally.
+* [webdev\_proxy](https://github.com/Workiva/webdev_proxy) ⭐ 11 | 🐛 3 | 🌐 JavaScript | 📅 2026-09-21 - A proxy wrapper around [webdev](https://github.com/dart-lang/webdev) ⭐ 224 | 🐛 212 | 🌐 Dart | 📅 2026-09-21 which adds support for rerouting 404s to the index, allowing for HTML push-based routing while running locally.
 * [gulp-dart](https://github.com/agudulin/gulp-dart) ⚠️ Archived - A gulp plugin for compiling Dart code to JavaScript using dart2js.
 * [DevTools](https://dart.dev/tools/dart-devtools) - a suite of debugging and performance tools for Dart and Flutter.
 * [dart2js](https://www.dartlang.org/tools/dart2js/) - compiles Dart code to JavaScript.
@@ -210,4 +210,4 @@ There are lots of awesome libraries being added to [Pub](https://pub.dartlang.or
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
