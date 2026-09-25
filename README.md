@@ -1,6 +1,6 @@
 # Awesome Dart with stars
 
-A curated list of awesome Dart frameworks, libraries, and software. Items on the list are actively maintained, well documented, and popular in the Dart community. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 509,637 | 🐛 106 | 📅 2026-09-02 lists.
+A curated list of awesome Dart frameworks, libraries, and software. Items on the list are actively maintained, well documented, and popular in the Dart community. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 510,180 | 🐛 107 | 📅 2026-09-02 lists.
 
 ### Contributing
 
@@ -42,7 +42,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Server Frameworks
 
-* [Dart Frog](https://github.com/VeryGoodOpenSource/dart_frog) ⭐ 2,270 | 🐛 113 | 🌐 Dart | 📅 2026-09-01 -  A fast, minimalistic backend framework for Dart.
+* [Dart Frog](https://github.com/VeryGoodOpenSource/dart_frog) ⭐ 2,271 | 🐛 113 | 🌐 Dart | 📅 2026-09-01 -  A fast, minimalistic backend framework for Dart.
 * [Alfred](https://github.com/rknell/alfred) ⭐ 532 | 🐛 18 | 🌐 Dart | 📅 2025-05-19 - Minimal ExpressJS-inspired server with routing and middlware.
 * [Start](https://github.com/lvivski/start) ⭐ 530 | 🐛 5 | 🌐 Dart | 📅 2021-05-11 - Sinatra inspired web framework to serve static files, handle dynamic requests, websockets and create JSON responses.
 * [Jaguar](https://github.com/Jaguar-dart/jaguar) ⭐ 469 | 🐛 24 | 🌐 Dart | 📅 2024-09-08 - A server framework built for speed, simplicity and extensibility.
@@ -57,7 +57,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Other Frameworks
 
-* [Rapid Open Hardware Development (ROHD) Framework](https://github.com/intel/rohd) ⭐ 489 | 🐛 148 | 🌐 Dart | 📅 2026-09-23 - A framework for describing and verifying hardware.
+* [Rapid Open Hardware Development (ROHD) Framework](https://github.com/intel/rohd) ⭐ 491 | 🐛 148 | 🌐 Dart | 📅 2026-09-23 - A framework for describing and verifying hardware.
 
 ## Cross-platform development
 
@@ -66,7 +66,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Game Development
 
-* [Flame](https://github.com/luanpotter/flame#readme) ⭐ 10,766 | 🐛 84 | 🌐 Dart | 📅 2026-09-23 - A minimalist Flutter game engine.
+* [Flame](https://github.com/luanpotter/flame#readme) ⭐ 10,766 | 🐛 84 | 🌐 Dart | 📅 2026-09-25 - A minimalist Flutter game engine.
 * [DartRocket](https://github.com/StrykerKKD/dartrocket) ⚠️ Archived - DartRocket is a HTML5 game framework written in Dart and which uses the StageXL rendering engine.
 * [Pixi Dart](https://github.com/FedeOmoto/pixi) ⭐ 35 | 🐛 1 | 🌐 Dart | 📅 2014-11-28 - A port of the pixi.js rendering engine.
 * [Ranger](https://github.com/wdevore/Ranger-Dart) ⭐ 26 | 🐛 0 | 🌐 Dart | 📅 2021-08-31 - A game engine centered around HTML5 Canvas and a scene graph.
@@ -146,7 +146,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Crash monitoring
 
-* [Sentry](https://github.com/getsentry/sentry-dart) ⭐ 875 | 🐛 127 | 🌐 Dart | 📅 2026-09-24 - Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time.
+* [Sentry](https://github.com/getsentry/sentry-dart) ⭐ 874 | 🐛 125 | 🌐 Dart | 📅 2026-09-25 - Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time.
 
 ## Tools
 
@@ -190,7 +190,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ## IDEs, Editors, and Plugins
 
 * [Vim Plugin](https://github.com/dart-lang/dart-vim-plugin) ⭐ 653 | 🐛 6 | 🌐 Vim Script | 📅 2026-06-05 - Syntax highlighting for Dart in Vim.
-* [Sublime Text Package](https://github.com/guillermooo/dart-sublime-bundle) ⭐ 261 | 🐛 66 | 🌐 Python | 📅 2023-01-06 - Sublime Text 3 Dart Package.
+* [Sublime Text Package](https://github.com/guillermooo/dart-sublime-bundle) ⭐ 261 | 🐛 67 | 🌐 Python | 📅 2023-01-06 - Sublime Text 3 Dart Package.
 * [Dart Barrel File Generator](https://github.com/mikededo/dartBarrelFileGenerator) ⭐ 29 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-29 - VSCode extension that generates barrel files for Dart projects.
 * [Emacs Plugin](https://github.com/nex3/dart-mode) ⭐ 25 | 🐛 21 | 🌐 Dart | 📅 2026-06-19 - An Emacs mode for the Dart language.
 * [IntelliJ Plugin](https://www.dartlang.org/tools/webstorm/) - Dart plugin from JetBrains for WebStorm, IntelliJ IDEA, PhpStorm, PyCharm, and RubyMine.
@@ -210,4 +210,4 @@ There are lots of awesome libraries being added to [Pub](https://pub.dartlang.or
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._

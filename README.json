@@ -19,7 +19,7 @@
             "open_issues": 113,
             "owner": "dart-frog-dev",
             "repo": "dart_frog",
-            "stars": 2270,
+            "stars": 2271,
             "topics": [
               "backend",
               "backend-framework",
@@ -222,7 +222,7 @@
             "id": 107833072,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-09-23T15:30:58Z",
+            "last_commit": "2026-09-25T06:52:39Z",
             "open_issues": 84,
             "owner": "flame-engine",
             "repo": "flame",
@@ -860,11 +860,11 @@
             "id": 98913726,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-09-24T09:17:15Z",
-            "open_issues": 127,
+            "last_commit": "2026-09-25T09:17:52Z",
+            "open_issues": 125,
             "owner": "getsentry",
             "repo": "sentry-dart",
-            "stars": 875,
+            "stars": 874,
             "topics": [
               "crash-reporting",
               "dart",
@@ -1107,7 +1107,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2023-01-06T22:23:01Z",
-            "open_issues": 66,
+            "open_issues": 67,
             "owner": "guillermooo",
             "repo": "dart-sublime-bundle",
             "stars": 261,
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T10:28:43.872Z",
+    "last_updated": "2026-09-25T10:31:23.754Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Dart frameworks, libraries, and software",
