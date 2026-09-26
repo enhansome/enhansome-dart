@@ -222,11 +222,11 @@
             "id": 107833072,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-09-25T06:52:39Z",
-            "open_issues": 84,
+            "last_commit": "2026-09-25T18:36:11Z",
+            "open_issues": 88,
             "owner": "flame-engine",
             "repo": "flame",
-            "stars": 10766,
+            "stars": 10768,
             "topics": [
               "dart",
               "flame",
@@ -375,7 +375,7 @@
             "open_issues": 92,
             "owner": "felangel",
             "repo": "mason",
-            "stars": 1134,
+            "stars": 1133,
             "topics": [
               "bricks",
               "cli",
@@ -439,7 +439,7 @@
             "open_issues": 38,
             "owner": "stablekernel",
             "repo": "postgresql-dart",
-            "stars": 128,
+            "stars": 127,
             "topics": [
               "dart",
               "driver",
@@ -512,7 +512,7 @@
             "open_issues": 57,
             "owner": "google",
             "repo": "quiver-dart",
-            "stars": 1065,
+            "stars": 1064,
             "topics": []
           },
           "first_seen": "2026-08-28T17:41:09.349Z"
@@ -533,7 +533,7 @@
             "open_issues": 96,
             "owner": "google",
             "repo": "built_value.dart",
-            "stars": 886,
+            "stars": 885,
             "topics": []
           },
           "first_seen": "2026-08-28T17:41:09.349Z"
@@ -671,7 +671,7 @@
             "id": 4460928,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-09-11T16:08:16Z",
+            "last_commit": "2026-09-25T13:45:23Z",
             "open_issues": 5,
             "owner": "petitparser",
             "repo": "dart-petitparser",
@@ -831,7 +831,7 @@
             "open_issues": 114,
             "owner": "rrousselGit",
             "repo": "freezed",
-            "stars": 2192,
+            "stars": 2193,
             "topics": [
               "code-generator",
               "dart",
@@ -860,11 +860,11 @@
             "id": 98913726,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-09-25T09:17:52Z",
-            "open_issues": 125,
+            "last_commit": "2026-09-26T06:58:01Z",
+            "open_issues": 126,
             "owner": "getsentry",
             "repo": "sentry-dart",
-            "stars": 874,
+            "stars": 873,
             "topics": [
               "crash-reporting",
               "dart",
@@ -900,7 +900,7 @@
             "open_issues": 62,
             "owner": "BayesWitnesses",
             "repo": "m2cgen",
-            "stars": 3003,
+            "stars": 3002,
             "topics": [
               "c",
               "csharp",
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T10:31:23.754Z",
+    "last_updated": "2026-09-26T10:12:27.670Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Dart frameworks, libraries, and software",
