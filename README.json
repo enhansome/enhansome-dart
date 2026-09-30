@@ -222,11 +222,11 @@
             "id": 107833072,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-09-28T18:28:01Z",
-            "open_issues": 90,
+            "last_commit": "2026-09-30T08:41:54Z",
+            "open_issues": 89,
             "owner": "flame-engine",
             "repo": "flame",
-            "stars": 10775,
+            "stars": 10779,
             "topics": [
               "dart",
               "flame",
@@ -375,7 +375,7 @@
             "open_issues": 92,
             "owner": "felangel",
             "repo": "mason",
-            "stars": 1134,
+            "stars": 1135,
             "topics": [
               "bricks",
               "cli",
@@ -827,7 +827,7 @@
             "id": 231861335,
             "language": "Dart",
             "license": null,
-            "last_commit": "2026-09-18T21:14:56Z",
+            "last_commit": "2026-09-30T00:13:44Z",
             "open_issues": 114,
             "owner": "rrousselGit",
             "repo": "freezed",
@@ -856,12 +856,12 @@
           "repo_info": {
             "archived": false,
             "description": "Sentry SDK for Dart and Flutter",
-            "homepage": "https://sentry.io/for/flutter/",
+            "homepage": "https://docs.sentry.io/platforms/dart/guides/flutter/",
             "id": 98913726,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-09-29T01:28:10Z",
-            "open_issues": 123,
+            "last_commit": "2026-09-30T11:13:51Z",
+            "open_issues": 131,
             "owner": "getsentry",
             "repo": "sentry-dart",
             "stars": 873,
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T11:32:20.254Z",
+    "last_updated": "2026-09-30T11:20:42.009Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Dart frameworks, libraries, and software",
