@@ -861,7 +861,7 @@
             "language": "Dart",
             "license": "MIT",
             "last_commit": "2026-10-02T12:17:39Z",
-            "open_issues": 126,
+            "open_issues": 127,
             "owner": "getsentry",
             "repo": "sentry-dart",
             "stars": 873,
@@ -900,7 +900,7 @@
             "open_issues": 62,
             "owner": "BayesWitnesses",
             "repo": "m2cgen",
-            "stars": 3001,
+            "stars": 3002,
             "topics": [
               "c",
               "csharp",
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:41:43.036Z",
+    "last_updated": "2026-10-03T10:34:57.433Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Dart frameworks, libraries, and software",
