@@ -222,11 +222,11 @@
             "id": 107833072,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-10-02T15:17:32Z",
-            "open_issues": 78,
+            "last_commit": "2026-10-03T12:21:56Z",
+            "open_issues": 79,
             "owner": "flame-engine",
             "repo": "flame",
-            "stars": 10780,
+            "stars": 10781,
             "topics": [
               "dart",
               "flame",
@@ -900,7 +900,7 @@
             "open_issues": 62,
             "owner": "BayesWitnesses",
             "repo": "m2cgen",
-            "stars": 3002,
+            "stars": 3000,
             "topics": [
               "c",
               "csharp",
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T10:34:57.433Z",
+    "last_updated": "2026-10-04T11:15:43.092Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Dart frameworks, libraries, and software",
