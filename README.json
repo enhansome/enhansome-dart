@@ -223,7 +223,7 @@
             "language": "Dart",
             "license": "MIT",
             "last_commit": "2026-10-06T19:10:00Z",
-            "open_issues": 77,
+            "open_issues": 80,
             "owner": "flame-engine",
             "repo": "flame",
             "stars": 10782,
@@ -371,7 +371,7 @@
             "id": 300044841,
             "language": "Dart",
             "license": null,
-            "last_commit": "2026-09-16T05:23:26Z",
+            "last_commit": "2026-10-08T05:22:53Z",
             "open_issues": 95,
             "owner": "felangel",
             "repo": "mason",
@@ -831,7 +831,7 @@
             "open_issues": 114,
             "owner": "rrousselGit",
             "repo": "freezed",
-            "stars": 2195,
+            "stars": 2196,
             "topics": [
               "code-generator",
               "dart",
@@ -860,8 +860,8 @@
             "id": 98913726,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-10-07T03:10:17Z",
-            "open_issues": 129,
+            "last_commit": "2026-10-07T13:46:27Z",
+            "open_issues": 130,
             "owner": "getsentry",
             "repo": "sentry-dart",
             "stars": 873,
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T11:58:36.060Z",
+    "last_updated": "2026-10-08T12:12:58.826Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Dart frameworks, libraries, and software",
