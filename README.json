@@ -16,7 +16,7 @@
             "language": "Dart",
             "license": "MIT",
             "last_commit": "2026-10-01T18:43:16Z",
-            "open_issues": 113,
+            "open_issues": 114,
             "owner": "dart-frog-dev",
             "repo": "dart_frog",
             "stars": 2273,
@@ -226,7 +226,7 @@
             "open_issues": 78,
             "owner": "flame-engine",
             "repo": "flame",
-            "stars": 10786,
+            "stars": 10788,
             "topics": [
               "dart",
               "flame",
@@ -675,7 +675,7 @@
             "open_issues": 5,
             "owner": "petitparser",
             "repo": "dart-petitparser",
-            "stars": 488,
+            "stars": 489,
             "topics": [
               "dart",
               "flutter",
@@ -765,7 +765,7 @@
             "open_issues": 57,
             "owner": "brendan-duncan",
             "repo": "image",
-            "stars": 1267,
+            "stars": 1268,
             "topics": [
               "dart",
               "dart-library",
@@ -828,10 +828,10 @@
             "language": "Dart",
             "license": null,
             "last_commit": "2026-10-13T00:14:20Z",
-            "open_issues": 114,
+            "open_issues": 115,
             "owner": "rrousselGit",
             "repo": "freezed",
-            "stars": 2194,
+            "stars": 2195,
             "topics": [
               "code-generator",
               "dart",
@@ -860,8 +860,8 @@
             "id": 98913726,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-10-15T09:53:33Z",
-            "open_issues": 135,
+            "last_commit": "2026-10-16T07:33:49Z",
+            "open_issues": 127,
             "owner": "getsentry",
             "repo": "sentry-dart",
             "stars": 874,
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T10:16:04.018Z",
+    "last_updated": "2026-10-16T10:04:37.602Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Dart frameworks, libraries, and software",
@@ -1178,7 +1178,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-05-24T14:40:26Z",
-      "open_issues": 32,
+      "open_issues": 33,
       "owner": "yissachar",
       "repo": "awesome-dart",
       "stars": 2499,
