@@ -1,6 +1,6 @@
 # Awesome Dart with stars
 
-A curated list of awesome Dart frameworks, libraries, and software. Items on the list are actively maintained, well documented, and popular in the Dart community. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 520,672 | 🐛 105 | 📅 2026-09-02 lists.
+A curated list of awesome Dart frameworks, libraries, and software. Items on the list are actively maintained, well documented, and popular in the Dart community. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 521,208 | 🐛 105 | 📅 2026-09-02 lists.
 
 ### Contributing
 
@@ -42,7 +42,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Server Frameworks
 
-* [Dart Frog](https://github.com/VeryGoodOpenSource/dart_frog) ⭐ 2,274 | 🐛 114 | 🌐 Dart | 📅 2026-10-01 -  A fast, minimalistic backend framework for Dart.
+* [Dart Frog](https://github.com/VeryGoodOpenSource/dart_frog) ⭐ 2,272 | 🐛 114 | 🌐 Dart | 📅 2026-10-01 -  A fast, minimalistic backend framework for Dart.
 * [Alfred](https://github.com/rknell/alfred) ⭐ 532 | 🐛 18 | 🌐 Dart | 📅 2025-05-19 - Minimal ExpressJS-inspired server with routing and middlware.
 * [Start](https://github.com/lvivski/start) ⭐ 530 | 🐛 5 | 🌐 Dart | 📅 2021-05-11 - Sinatra inspired web framework to serve static files, handle dynamic requests, websockets and create JSON responses.
 * [Jaguar](https://github.com/Jaguar-dart/jaguar) ⭐ 469 | 🐛 24 | 🌐 Dart | 📅 2024-09-08 - A server framework built for speed, simplicity and extensibility.
@@ -57,7 +57,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Other Frameworks
 
-* [Rapid Open Hardware Development (ROHD) Framework](https://github.com/intel/rohd) ⭐ 495 | 🐛 131 | 🌐 Dart | 📅 2026-10-18 - A framework for describing and verifying hardware.
+* [Rapid Open Hardware Development (ROHD) Framework](https://github.com/intel/rohd) ⭐ 495 | 🐛 125 | 🌐 Dart | 📅 2026-10-19 - A framework for describing and verifying hardware.
 
 ## Cross-platform development
 
@@ -66,7 +66,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Game Development
 
-* [Flame](https://github.com/luanpotter/flame#readme) ⭐ 10,791 | 🐛 81 | 🌐 Dart | 📅 2026-10-16 - A minimalist Flutter game engine.
+* [Flame](https://github.com/luanpotter/flame#readme) ⭐ 10,790 | 🐛 80 | 🌐 Dart | 📅 2026-10-19 - A minimalist Flutter game engine.
 * [DartRocket](https://github.com/StrykerKKD/dartrocket) ⚠️ Archived - DartRocket is a HTML5 game framework written in Dart and which uses the StageXL rendering engine.
 * [Pixi Dart](https://github.com/FedeOmoto/pixi) ⭐ 35 | 🐛 1 | 🌐 Dart | 📅 2014-11-28 - A port of the pixi.js rendering engine.
 * [Ranger](https://github.com/wdevore/Ranger-Dart) ⭐ 26 | 🐛 0 | 🌐 Dart | 📅 2021-08-31 - A game engine centered around HTML5 Canvas and a scene graph.
@@ -79,7 +79,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Template
 
-* [mason](https://github.com/felangel/mason) ⭐ 1,134 | 🐛 104 | 🌐 Dart | 📅 2026-10-12 - Tools which allow developers to create and consume reusable templates called bricks.
+* [mason](https://github.com/felangel/mason) ⭐ 1,133 | 🐛 104 | 🌐 Dart | 📅 2026-10-19 - Tools which allow developers to create and consume reusable templates called bricks.
 * [jaded](https://github.com/dartist/jaded) ⭐ 43 | 🐛 0 | 🌐 Dart | 📅 2020-01-22 - Port of the excellent Jade view engine.
 * [mustache\_template](https://pub.dev/packages/mustache_template) - A mustache template library that supports dart2js and dart2native.
 
@@ -132,7 +132,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Image
 
-* [image](https://github.com/brendan-duncan/image) ⭐ 1,268 | 🐛 58 | 🌐 Dart | 📅 2026-10-11 - Provides server and web apps the ability to load, manipulate, and save images with various image file formats including PNG, JPEG, GIF, WebP, TIFF, TGA, PSD, PVR, and OpenEXR.
+* [image](https://github.com/brendan-duncan/image) ⭐ 1,268 | 🐛 58 | 🌐 Dart | 📅 2026-10-19 - Provides server and web apps the ability to load, manipulate, and save images with various image file formats including PNG, JPEG, GIF, WebP, TIFF, TGA, PSD, PVR, and OpenEXR.
 
 ## Testing
 
@@ -142,7 +142,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Unions
 
-* [Freezed](https://github.com/rrousselGit/freezed) ⭐ 2,196 | 🐛 110 | 🌐 Dart | 📅 2026-10-17 - Code generation for immutable classes that has a simple syntax/API without compromising on the features.
+* [Freezed](https://github.com/rrousselGit/freezed) ⭐ 2,197 | 🐛 110 | 🌐 Dart | 📅 2026-10-17 - Code generation for immutable classes that has a simple syntax/API without compromising on the features.
 
 ## Crash monitoring
 
@@ -210,4 +210,4 @@ There are lots of awesome libraries being added to [Pub](https://pub.dartlang.or
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
