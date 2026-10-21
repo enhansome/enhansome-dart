@@ -222,11 +222,11 @@
             "id": 107833072,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-10-19T17:34:08Z",
-            "open_issues": 82,
+            "last_commit": "2026-10-21T08:28:37Z",
+            "open_issues": 78,
             "owner": "flame-engine",
             "repo": "flame",
-            "stars": 10791,
+            "stars": 10792,
             "topics": [
               "dart",
               "flame",
@@ -512,7 +512,7 @@
             "open_issues": 57,
             "owner": "google",
             "repo": "quiver-dart",
-            "stars": 1064,
+            "stars": 1063,
             "topics": []
           },
           "first_seen": "2026-08-28T17:41:09.349Z"
@@ -860,8 +860,8 @@
             "id": 98913726,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-10-19T21:53:11Z",
-            "open_issues": 128,
+            "last_commit": "2026-10-20T22:26:54Z",
+            "open_issues": 138,
             "owner": "getsentry",
             "repo": "sentry-dart",
             "stars": 874,
@@ -1037,8 +1037,8 @@
             "id": 190390802,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-21T23:50:10Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-20T23:21:18Z",
+            "open_issues": 4,
             "owner": "Workiva",
             "repo": "webdev_proxy",
             "stars": 11,
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T10:23:05.556Z",
+    "last_updated": "2026-10-21T10:32:44.474Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Dart frameworks, libraries, and software",
@@ -1181,7 +1181,7 @@
       "open_issues": 33,
       "owner": "yissachar",
       "repo": "awesome-dart",
-      "stars": 2501,
+      "stars": 2502,
       "topics": [
         "awesome",
         "awesome-list",

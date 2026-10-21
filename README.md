@@ -1,6 +1,6 @@
 # Awesome Dart with stars
 
-A curated list of awesome Dart frameworks, libraries, and software. Items on the list are actively maintained, well documented, and popular in the Dart community. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 521,672 | 🐛 105 | 📅 2026-09-02 lists.
+A curated list of awesome Dart frameworks, libraries, and software. Items on the list are actively maintained, well documented, and popular in the Dart community. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 522,110 | 🐛 105 | 📅 2026-09-02 lists.
 
 ### Contributing
 
@@ -66,7 +66,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Game Development
 
-* [Flame](https://github.com/luanpotter/flame#readme) ⭐ 10,791 | 🐛 82 | 🌐 Dart | 📅 2026-10-19 - A minimalist Flutter game engine.
+* [Flame](https://github.com/luanpotter/flame#readme) ⭐ 10,792 | 🐛 78 | 🌐 Dart | 📅 2026-10-21 - A minimalist Flutter game engine.
 * [DartRocket](https://github.com/StrykerKKD/dartrocket) ⚠️ Archived - DartRocket is a HTML5 game framework written in Dart and which uses the StageXL rendering engine.
 * [Pixi Dart](https://github.com/FedeOmoto/pixi) ⭐ 35 | 🐛 1 | 🌐 Dart | 📅 2014-11-28 - A port of the pixi.js rendering engine.
 * [Ranger](https://github.com/wdevore/Ranger-Dart) ⭐ 26 | 🐛 0 | 🌐 Dart | 📅 2021-08-31 - A game engine centered around HTML5 Canvas and a scene graph.
@@ -96,7 +96,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Utilities
 
-* [Quiver](https://github.com/google/quiver-dart) ⭐ 1,064 | 🐛 57 | 🌐 Dart | 📅 2026-04-02 - A set of utility libraries that makes using many libraries easier and more convenient, or adds additional functionality.
+* [Quiver](https://github.com/google/quiver-dart) ⭐ 1,063 | 🐛 57 | 🌐 Dart | 📅 2026-04-02 - A set of utility libraries that makes using many libraries easier and more convenient, or adds additional functionality.
 * [built\_value](https://github.com/google/built_value.dart) ⭐ 885 | 🐛 96 | 🌐 Dart | 📅 2026-09-02 - Immutable value types, enum classes, and serialization.
 * [built\_collection](https://github.com/google/built_collection.dart) ⚠️ Archived - Immutable collections via the builder pattern.
 * [Basics](https://github.com/google/dart-basics) ⭐ 165 | 🐛 5 | 🌐 Dart | 📅 2026-08-01 -  A Dart library containing convenient extension methods on basic Dart objects.
@@ -146,7 +146,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Crash monitoring
 
-* [Sentry](https://github.com/getsentry/sentry-dart) ⭐ 874 | 🐛 128 | 🌐 Dart | 📅 2026-10-19 - Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time.
+* [Sentry](https://github.com/getsentry/sentry-dart) ⭐ 874 | 🐛 138 | 🌐 Dart | 📅 2026-10-20 - Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time.
 
 ## Tools
 
@@ -155,7 +155,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Stagehand](https://github.com/dart-lang/stagehand) ⚠️ Archived - A project scaffolding generator, inspired by tools like Web Starter Kit and Yeoman.
 * [dev\_compiler](https://github.com/dart-lang/dev_compiler) ⚠️ Archived - Dart to JavaScript compiler designed to create idiomatic, readable JavaScript output.
 * [js2dart](https://github.com/vojtajina/js2dart) ⭐ 63 | 🐛 3 | 🌐 JavaScript | 📅 2014-09-17 - compiles Javascript code to Dart.
-* [webdev\_proxy](https://github.com/Workiva/webdev_proxy) ⭐ 11 | 🐛 3 | 🌐 JavaScript | 📅 2026-09-21 - A proxy wrapper around [webdev](https://github.com/dart-lang/webdev) ⭐ 224 | 🐛 211 | 🌐 Dart | 📅 2026-10-16 which adds support for rerouting 404s to the index, allowing for HTML push-based routing while running locally.
+* [webdev\_proxy](https://github.com/Workiva/webdev_proxy) ⭐ 11 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-20 - A proxy wrapper around [webdev](https://github.com/dart-lang/webdev) ⭐ 224 | 🐛 211 | 🌐 Dart | 📅 2026-10-16 which adds support for rerouting 404s to the index, allowing for HTML push-based routing while running locally.
 * [gulp-dart](https://github.com/agudulin/gulp-dart) ⚠️ Archived - A gulp plugin for compiling Dart code to JavaScript using dart2js.
 * [DevTools](https://dart.dev/tools/dart-devtools) - a suite of debugging and performance tools for Dart and Flutter.
 * [dart2js](https://www.dartlang.org/tools/dart2js/) - compiles Dart code to JavaScript.
@@ -210,4 +210,4 @@ There are lots of awesome libraries being added to [Pub](https://pub.dartlang.or
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
