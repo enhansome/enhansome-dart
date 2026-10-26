@@ -222,11 +222,11 @@
             "id": 107833072,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-10-25T09:47:15Z",
-            "open_issues": 84,
+            "last_commit": "2026-10-25T20:39:08Z",
+            "open_issues": 77,
             "owner": "flame-engine",
             "repo": "flame",
-            "stars": 10800,
+            "stars": 10802,
             "topics": [
               "dart",
               "flame",
@@ -864,7 +864,7 @@
             "open_issues": 126,
             "owner": "getsentry",
             "repo": "sentry-dart",
-            "stars": 875,
+            "stars": 876,
             "topics": [
               "crash-reporting",
               "dart",
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T10:06:05.019Z",
+    "last_updated": "2026-10-26T11:30:13.619Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Dart frameworks, libraries, and software",
