@@ -1,6 +1,6 @@
 # Awesome Dart with stars
 
-A curated list of awesome Dart frameworks, libraries, and software. Items on the list are actively maintained, well documented, and popular in the Dart community. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 526,546 | 🐛 105 | 📅 2026-09-02 lists.
+A curated list of awesome Dart frameworks, libraries, and software. Items on the list are actively maintained, well documented, and popular in the Dart community. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 527,116 | 🐛 105 | 📅 2026-09-02 lists.
 
 ### Contributing
 
@@ -66,7 +66,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Game Development
 
-* [Flame](https://github.com/luanpotter/flame#readme) ⭐ 10,808 | 🐛 92 | 🌐 Dart | 📅 2026-10-29 - A minimalist Flutter game engine.
+* [Flame](https://github.com/luanpotter/flame#readme) ⭐ 10,809 | 🐛 86 | 🌐 Dart | 📅 2026-10-29 - A minimalist Flutter game engine.
 * [DartRocket](https://github.com/StrykerKKD/dartrocket) ⚠️ Archived - DartRocket is a HTML5 game framework written in Dart and which uses the StageXL rendering engine.
 * [Pixi Dart](https://github.com/FedeOmoto/pixi) ⭐ 35 | 🐛 1 | 🌐 Dart | 📅 2014-11-28 - A port of the pixi.js rendering engine.
 * [Ranger](https://github.com/wdevore/Ranger-Dart) ⭐ 26 | 🐛 0 | 🌐 Dart | 📅 2021-08-31 - A game engine centered around HTML5 Canvas and a scene graph.
@@ -146,7 +146,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Crash monitoring
 
-* [Sentry](https://github.com/getsentry/sentry-dart) ⭐ 876 | 🐛 127 | 🌐 Dart | 📅 2026-10-29 - Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time.
+* [Sentry](https://github.com/getsentry/sentry-dart) ⭐ 876 | 🐛 125 | 🌐 Dart | 📅 2026-10-30 - Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time.
 
 ## Tools
 
@@ -190,7 +190,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ## IDEs, Editors, and Plugins
 
 * [Vim Plugin](https://github.com/dart-lang/dart-vim-plugin) ⭐ 653 | 🐛 6 | 🌐 Vim Script | 📅 2026-06-05 - Syntax highlighting for Dart in Vim.
-* [Sublime Text Package](https://github.com/guillermooo/dart-sublime-bundle) ⭐ 261 | 🐛 66 | 🌐 Python | 📅 2023-01-06 - Sublime Text 3 Dart Package.
+* [Sublime Text Package](https://github.com/guillermooo/dart-sublime-bundle) ⭐ 261 | 🐛 67 | 🌐 Python | 📅 2023-01-06 - Sublime Text 3 Dart Package.
 * [Dart Barrel File Generator](https://github.com/mikededo/dartBarrelFileGenerator) ⭐ 29 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-29 - VSCode extension that generates barrel files for Dart projects.
 * [Emacs Plugin](https://github.com/nex3/dart-mode) ⭐ 25 | 🐛 21 | 🌐 Dart | 📅 2026-06-19 - An Emacs mode for the Dart language.
 * [IntelliJ Plugin](https://www.dartlang.org/tools/webstorm/) - Dart plugin from JetBrains for WebStorm, IntelliJ IDEA, PhpStorm, PyCharm, and RubyMine.
@@ -210,4 +210,4 @@ There are lots of awesome libraries being added to [Pub](https://pub.dartlang.or
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
