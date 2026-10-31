@@ -19,7 +19,7 @@
             "open_issues": 112,
             "owner": "dart-frog-dev",
             "repo": "dart_frog",
-            "stars": 2275,
+            "stars": 2276,
             "topics": [
               "backend",
               "backend-framework",
@@ -222,8 +222,8 @@
             "id": 107833072,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-10-29T17:16:11Z",
-            "open_issues": 86,
+            "last_commit": "2026-10-31T10:42:07Z",
+            "open_issues": 97,
             "owner": "flame-engine",
             "repo": "flame",
             "stars": 10809,
@@ -675,7 +675,7 @@
             "open_issues": 5,
             "owner": "petitparser",
             "repo": "dart-petitparser",
-            "stars": 489,
+            "stars": 488,
             "topics": [
               "dart",
               "flutter",
@@ -761,8 +761,8 @@
             "id": 15776193,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-10-19T02:01:39Z",
-            "open_issues": 61,
+            "last_commit": "2026-10-31T02:58:47Z",
+            "open_issues": 59,
             "owner": "brendan-duncan",
             "repo": "image",
             "stars": 1267,
@@ -860,11 +860,11 @@
             "id": 98913726,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-10-30T10:12:36Z",
+            "last_commit": "2026-10-30T20:11:53Z",
             "open_issues": 125,
             "owner": "getsentry",
             "repo": "sentry-dart",
-            "stars": 876,
+            "stars": 877,
             "topics": [
               "crash-reporting",
               "dart",
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T11:35:03.772Z",
+    "last_updated": "2026-10-31T11:10:51.589Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Dart frameworks, libraries, and software",
