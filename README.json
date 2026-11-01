@@ -222,11 +222,11 @@
             "id": 107833072,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-10-31T10:42:07Z",
-            "open_issues": 97,
+            "last_commit": "2026-11-01T11:27:51Z",
+            "open_issues": 96,
             "owner": "flame-engine",
             "repo": "flame",
-            "stars": 10809,
+            "stars": 10810,
             "topics": [
               "dart",
               "flame",
@@ -827,11 +827,11 @@
             "id": 231861335,
             "language": "Dart",
             "license": null,
-            "last_commit": "2026-10-29T00:09:01Z",
+            "last_commit": "2026-10-31T15:08:17Z",
             "open_issues": 112,
             "owner": "rrousselGit",
             "repo": "freezed",
-            "stars": 2200,
+            "stars": 2201,
             "topics": [
               "code-generator",
               "dart",
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T11:10:51.589Z",
+    "last_updated": "2026-11-01T11:59:51.173Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Dart frameworks, libraries, and software",
@@ -1181,7 +1181,7 @@
       "open_issues": 35,
       "owner": "yissachar",
       "repo": "awesome-dart",
-      "stars": 2503,
+      "stars": 2504,
       "topics": [
         "awesome",
         "awesome-list",
