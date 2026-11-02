@@ -1,6 +1,6 @@
 # Awesome Dart with stars
 
-A curated list of awesome Dart frameworks, libraries, and software. Items on the list are actively maintained, well documented, and popular in the Dart community. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 528,244 | 🐛 105 | 📅 2026-09-02 lists.
+A curated list of awesome Dart frameworks, libraries, and software. Items on the list are actively maintained, well documented, and popular in the Dart community. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 529,331 | 🐛 105 | 📅 2026-09-02 lists.
 
 ### Contributing
 
@@ -42,7 +42,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Server Frameworks
 
-* [Dart Frog](https://github.com/VeryGoodOpenSource/dart_frog) ⭐ 2,276 | 🐛 112 | 🌐 Dart | 📅 2026-10-28 -  A fast, minimalistic backend framework for Dart.
+* [Dart Frog](https://github.com/VeryGoodOpenSource/dart_frog) ⭐ 2,275 | 🐛 113 | 🌐 Dart | 📅 2026-11-01 -  A fast, minimalistic backend framework for Dart.
 * [Alfred](https://github.com/rknell/alfred) ⭐ 532 | 🐛 18 | 🌐 Dart | 📅 2025-05-19 - Minimal ExpressJS-inspired server with routing and middlware.
 * [Start](https://github.com/lvivski/start) ⭐ 530 | 🐛 5 | 🌐 Dart | 📅 2021-05-11 - Sinatra inspired web framework to serve static files, handle dynamic requests, websockets and create JSON responses.
 * [Jaguar](https://github.com/Jaguar-dart/jaguar) ⭐ 468 | 🐛 24 | 🌐 Dart | 📅 2024-09-08 - A server framework built for speed, simplicity and extensibility.
@@ -66,7 +66,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Game Development
 
-* [Flame](https://github.com/luanpotter/flame#readme) ⭐ 10,810 | 🐛 96 | 🌐 Dart | 📅 2026-11-01 - A minimalist Flutter game engine.
+* [Flame](https://github.com/luanpotter/flame#readme) ⭐ 10,812 | 🐛 92 | 🌐 Dart | 📅 2026-11-02 - A minimalist Flutter game engine.
 * [DartRocket](https://github.com/StrykerKKD/dartrocket) ⚠️ Archived - DartRocket is a HTML5 game framework written in Dart and which uses the StageXL rendering engine.
 * [Pixi Dart](https://github.com/FedeOmoto/pixi) ⭐ 35 | 🐛 1 | 🌐 Dart | 📅 2014-11-28 - A port of the pixi.js rendering engine.
 * [Ranger](https://github.com/wdevore/Ranger-Dart) ⭐ 26 | 🐛 0 | 🌐 Dart | 📅 2021-08-31 - A game engine centered around HTML5 Canvas and a scene graph.
@@ -79,7 +79,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Template
 
-* [mason](https://github.com/felangel/mason) ⭐ 1,134 | 🐛 104 | 🌐 Dart | 📅 2026-10-22 - Tools which allow developers to create and consume reusable templates called bricks.
+* [mason](https://github.com/felangel/mason) ⭐ 1,134 | 🐛 104 | 🌐 Dart | 📅 2026-11-02 - Tools which allow developers to create and consume reusable templates called bricks.
 * [jaded](https://github.com/dartist/jaded) ⭐ 43 | 🐛 0 | 🌐 Dart | 📅 2020-01-22 - Port of the excellent Jade view engine.
 * [mustache\_template](https://pub.dev/packages/mustache_template) - A mustache template library that supports dart2js and dart2native.
 
@@ -113,7 +113,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Parsers
 
-* [PetitParser](https://github.com/petitparser/dart-petitparser) ⭐ 488 | 🐛 5 | 🌐 Dart | 📅 2026-10-24 - PetitParser combines ideas from scannerless parsing, parser combinators, parsing expression grammars and packrat parsers to model grammars and parsers as objects that can be reconfigured dynamically.
+* [PetitParser](https://github.com/petitparser/dart-petitparser) ⭐ 488 | 🐛 4 | 🌐 Dart | 📅 2026-10-24 - PetitParser combines ideas from scannerless parsing, parser combinators, parsing expression grammars and packrat parsers to model grammars and parsers as objects that can be reconfigured dynamically.
 * [markdown](https://github.com/dart-lang/markdown) ⚠️ Archived - Parse markdown into HTML on both the client and server.
 * [html](https://pub.dartlang.org/packages/html) - A library for working with HTML documents. Previously known as html5lib.
 * [XML](https://pub.dartlang.org/packages/xml) - A lightweight library for parsing, traversing, querying and building XML documents.
@@ -132,7 +132,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Image
 
-* [image](https://github.com/brendan-duncan/image) ⭐ 1,267 | 🐛 59 | 🌐 Dart | 📅 2026-10-31 - Provides server and web apps the ability to load, manipulate, and save images with various image file formats including PNG, JPEG, GIF, WebP, TIFF, TGA, PSD, PVR, and OpenEXR.
+* [image](https://github.com/brendan-duncan/image) ⭐ 1,267 | 🐛 60 | 🌐 Dart | 📅 2026-10-31 - Provides server and web apps the ability to load, manipulate, and save images with various image file formats including PNG, JPEG, GIF, WebP, TIFF, TGA, PSD, PVR, and OpenEXR.
 
 ## Testing
 
@@ -142,11 +142,11 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Unions
 
-* [Freezed](https://github.com/rrousselGit/freezed) ⭐ 2,201 | 🐛 112 | 🌐 Dart | 📅 2026-10-31 - Code generation for immutable classes that has a simple syntax/API without compromising on the features.
+* [Freezed](https://github.com/rrousselGit/freezed) ⭐ 2,201 | 🐛 113 | 🌐 Dart | 📅 2026-10-31 - Code generation for immutable classes that has a simple syntax/API without compromising on the features.
 
 ## Crash monitoring
 
-* [Sentry](https://github.com/getsentry/sentry-dart) ⭐ 877 | 🐛 125 | 🌐 Dart | 📅 2026-10-30 - Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time.
+* [Sentry](https://github.com/getsentry/sentry-dart) ⭐ 877 | 🐛 123 | 🌐 Dart | 📅 2026-11-02 - Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time.
 
 ## Tools
 
@@ -210,4 +210,4 @@ There are lots of awesome libraries being added to [Pub](https://pub.dartlang.or
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
