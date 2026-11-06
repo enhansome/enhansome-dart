@@ -222,11 +222,11 @@
             "id": 107833072,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-11-05T10:33:00Z",
-            "open_issues": 102,
+            "last_commit": "2026-11-06T07:03:53Z",
+            "open_issues": 103,
             "owner": "flame-engine",
             "repo": "flame",
-            "stars": 10815,
+            "stars": 10810,
             "topics": [
               "dart",
               "flame",
@@ -375,7 +375,7 @@
             "open_issues": 105,
             "owner": "felangel",
             "repo": "mason",
-            "stars": 1136,
+            "stars": 1135,
             "topics": [
               "bricks",
               "cli",
@@ -831,7 +831,7 @@
             "open_issues": 113,
             "owner": "rrousselGit",
             "repo": "freezed",
-            "stars": 2202,
+            "stars": 2201,
             "topics": [
               "code-generator",
               "dart",
@@ -860,11 +860,11 @@
             "id": 98913726,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-11-05T03:04:54Z",
-            "open_issues": 134,
+            "last_commit": "2026-11-06T03:11:42Z",
+            "open_issues": 137,
             "owner": "getsentry",
             "repo": "sentry-dart",
-            "stars": 877,
+            "stars": 878,
             "topics": [
               "crash-reporting",
               "dart",
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T13:27:42.160Z",
+    "last_updated": "2026-11-06T13:11:56.977Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Dart frameworks, libraries, and software",
