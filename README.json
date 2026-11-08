@@ -222,11 +222,11 @@
             "id": 107833072,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-11-07T08:26:18Z",
-            "open_issues": 102,
+            "last_commit": "2026-11-07T15:00:06Z",
+            "open_issues": 105,
             "owner": "flame-engine",
             "repo": "flame",
-            "stars": 10810,
+            "stars": 10812,
             "topics": [
               "dart",
               "flame",
@@ -372,7 +372,7 @@
             "language": "Dart",
             "license": null,
             "last_commit": "2026-11-02T05:45:33Z",
-            "open_issues": 105,
+            "open_issues": 106,
             "owner": "felangel",
             "repo": "mason",
             "stars": 1135,
@@ -765,7 +765,7 @@
             "open_issues": 60,
             "owner": "brendan-duncan",
             "repo": "image",
-            "stars": 1267,
+            "stars": 1266,
             "topics": [
               "dart",
               "dart-library",
@@ -831,7 +831,7 @@
             "open_issues": 113,
             "owner": "rrousselGit",
             "repo": "freezed",
-            "stars": 2201,
+            "stars": 2200,
             "topics": [
               "code-generator",
               "dart",
@@ -900,7 +900,7 @@
             "open_issues": 62,
             "owner": "BayesWitnesses",
             "repo": "m2cgen",
-            "stars": 3000,
+            "stars": 3001,
             "topics": [
               "c",
               "csharp",
@@ -941,7 +941,7 @@
             "open_issues": 39,
             "owner": "dart-code-checker",
             "repo": "dart-code-metrics",
-            "stars": 863,
+            "stars": 862,
             "topics": [
               "analysis",
               "analyzer",
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T11:54:06.008Z",
+    "last_updated": "2026-11-08T12:09:37.568Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Dart frameworks, libraries, and software",
@@ -1181,7 +1181,7 @@
       "open_issues": 35,
       "owner": "yissachar",
       "repo": "awesome-dart",
-      "stars": 2507,
+      "stars": 2506,
       "topics": [
         "awesome",
         "awesome-list",
