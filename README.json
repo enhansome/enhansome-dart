@@ -941,7 +941,7 @@
             "open_issues": 39,
             "owner": "dart-code-checker",
             "repo": "dart-code-metrics",
-            "stars": 862,
+            "stars": 863,
             "topics": [
               "analysis",
               "analyzer",
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T12:09:37.568Z",
+    "last_updated": "2026-11-09T14:16:43.401Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Dart frameworks, libraries, and software",
