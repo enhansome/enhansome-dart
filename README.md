@@ -1,6 +1,6 @@
 # Awesome Dart with stars
 
-A curated list of awesome Dart frameworks, libraries, and software. Items on the list are actively maintained, well documented, and popular in the Dart community. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 536,672 | 🐛 104 | 📅 2026-09-02 lists.
+A curated list of awesome Dart frameworks, libraries, and software. Items on the list are actively maintained, well documented, and popular in the Dart community. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 537,221 | 🐛 104 | 📅 2026-09-02 lists.
 
 ### Contributing
 
@@ -57,7 +57,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Other Frameworks
 
-* [Rapid Open Hardware Development (ROHD) Framework](https://github.com/intel/rohd) ⭐ 496 | 🐛 62 | 🌐 Dart | 📅 2026-11-11 - A framework for describing and verifying hardware.
+* [Rapid Open Hardware Development (ROHD) Framework](https://github.com/intel/rohd) ⭐ 497 | 🐛 62 | 🌐 Dart | 📅 2026-11-11 - A framework for describing and verifying hardware.
 
 ## Cross-platform development
 
@@ -132,7 +132,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Image
 
-* [image](https://github.com/brendan-duncan/image) ⭐ 1,267 | 🐛 61 | 🌐 Dart | 📅 2026-11-14 - Provides server and web apps the ability to load, manipulate, and save images with various image file formats including PNG, JPEG, GIF, WebP, TIFF, TGA, PSD, PVR, and OpenEXR.
+* [image](https://github.com/brendan-duncan/image) ⭐ 1,267 | 🐛 60 | 🌐 Dart | 📅 2026-11-14 - Provides server and web apps the ability to load, manipulate, and save images with various image file formats including PNG, JPEG, GIF, WebP, TIFF, TGA, PSD, PVR, and OpenEXR.
 
 ## Testing
 
@@ -142,7 +142,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Unions
 
-* [Freezed](https://github.com/rrousselGit/freezed) ⭐ 2,200 | 🐛 114 | 🌐 Dart | 📅 2026-11-09 - Code generation for immutable classes that has a simple syntax/API without compromising on the features.
+* [Freezed](https://github.com/rrousselGit/freezed) ⭐ 2,199 | 🐛 114 | 🌐 Dart | 📅 2026-11-09 - Code generation for immutable classes that has a simple syntax/API without compromising on the features.
 
 ## Crash monitoring
 
@@ -150,7 +150,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Tools
 
-* [m2cgen](https://github.com/BayesWitnesses/m2cgen) ⭐ 3,001 | 🐛 62 | 🌐 Python | 📅 2024-08-03 - A CLI tool to transpile trained classic ML models into a native Dart code with zero dependencies.
+* [m2cgen](https://github.com/BayesWitnesses/m2cgen) ⭐ 3,002 | 🐛 62 | 🌐 Python | 📅 2024-08-03 - A CLI tool to transpile trained classic ML models into a native Dart code with zero dependencies.
 * [Dart Code Metrics](https://github.com/dart-code-checker/dart-code-metrics) ⚠️ Archived - Additional linter which reports code metrics, checks for anti-patterns and provides additional rules for Analyzer.
 * [Stagehand](https://github.com/dart-lang/stagehand) ⚠️ Archived - A project scaffolding generator, inspired by tools like Web Starter Kit and Yeoman.
 * [dev\_compiler](https://github.com/dart-lang/dev_compiler) ⚠️ Archived - Dart to JavaScript compiler designed to create idiomatic, readable JavaScript output.
@@ -210,4 +210,4 @@ There are lots of awesome libraries being added to [Pub](https://pub.dartlang.or
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
