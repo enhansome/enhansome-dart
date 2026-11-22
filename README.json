@@ -222,8 +222,8 @@
             "id": 107833072,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-11-20T19:30:01Z",
-            "open_issues": 95,
+            "last_commit": "2026-11-21T14:26:08Z",
+            "open_issues": 93,
             "owner": "flame-engine",
             "repo": "flame",
             "stars": 10822,
@@ -623,7 +623,7 @@
             "open_issues": 6,
             "owner": "google",
             "repo": "inject.dart",
-            "stars": 858,
+            "stars": 859,
             "topics": [
               "dart",
               "dependency-injection",
@@ -671,7 +671,7 @@
             "id": 4460928,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-11-11T22:11:05Z",
+            "last_commit": "2026-11-21T17:06:57Z",
             "open_issues": 4,
             "owner": "petitparser",
             "repo": "dart-petitparser",
@@ -831,7 +831,7 @@
             "open_issues": 115,
             "owner": "rrousselGit",
             "repo": "freezed",
-            "stars": 2198,
+            "stars": 2199,
             "topics": [
               "code-generator",
               "dart",
@@ -861,7 +861,7 @@
             "language": "Dart",
             "license": "MIT",
             "last_commit": "2026-11-21T10:19:51Z",
-            "open_issues": 108,
+            "open_issues": 109,
             "owner": "getsentry",
             "repo": "sentry-dart",
             "stars": 877,
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T13:40:45.217Z",
+    "last_updated": "2026-11-22T13:34:14.238Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Dart frameworks, libraries, and software",
