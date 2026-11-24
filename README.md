@@ -1,6 +1,6 @@
 # Awesome Dart with stars
 
-A curated list of awesome Dart frameworks, libraries, and software. Items on the list are actively maintained, well documented, and popular in the Dart community. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 541,494 | 🐛 103 | 📅 2026-09-02 lists.
+A curated list of awesome Dart frameworks, libraries, and software. Items on the list are actively maintained, well documented, and popular in the Dart community. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 542,133 | 🐛 103 | 📅 2026-09-02 lists.
 
 ### Contributing
 
@@ -42,7 +42,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Server Frameworks
 
-* [Dart Frog](https://github.com/VeryGoodOpenSource/dart_frog) ⭐ 2,274 | 🐛 112 | 🌐 Dart | 📅 2026-11-23 -  A fast, minimalistic backend framework for Dart.
+* [Dart Frog](https://github.com/VeryGoodOpenSource/dart_frog) ⭐ 2,274 | 🐛 108 | 🌐 Dart | 📅 2026-11-23 -  A fast, minimalistic backend framework for Dart.
 * [Alfred](https://github.com/rknell/alfred) ⭐ 532 | 🐛 18 | 🌐 Dart | 📅 2025-05-19 - Minimal ExpressJS-inspired server with routing and middlware.
 * [Start](https://github.com/lvivski/start) ⭐ 530 | 🐛 5 | 🌐 Dart | 📅 2021-05-11 - Sinatra inspired web framework to serve static files, handle dynamic requests, websockets and create JSON responses.
 * [Jaguar](https://github.com/Jaguar-dart/jaguar) ⭐ 468 | 🐛 24 | 🌐 Dart | 📅 2024-09-08 - A server framework built for speed, simplicity and extensibility.
@@ -57,7 +57,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Other Frameworks
 
-* [Rapid Open Hardware Development (ROHD) Framework](https://github.com/intel/rohd) ⭐ 499 | 🐛 64 | 🌐 Dart | 📅 2026-11-21 - A framework for describing and verifying hardware.
+* [Rapid Open Hardware Development (ROHD) Framework](https://github.com/intel/rohd) ⭐ 499 | 🐛 63 | 🌐 Dart | 📅 2026-11-21 - A framework for describing and verifying hardware.
 
 ## Cross-platform development
 
@@ -132,7 +132,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Image
 
-* [image](https://github.com/brendan-duncan/image) ⭐ 1,267 | 🐛 62 | 🌐 Dart | 📅 2026-11-14 - Provides server and web apps the ability to load, manipulate, and save images with various image file formats including PNG, JPEG, GIF, WebP, TIFF, TGA, PSD, PVR, and OpenEXR.
+* [image](https://github.com/brendan-duncan/image) ⭐ 1,268 | 🐛 57 | 🌐 Dart | 📅 2026-11-24 - Provides server and web apps the ability to load, manipulate, and save images with various image file formats including PNG, JPEG, GIF, WebP, TIFF, TGA, PSD, PVR, and OpenEXR.
 
 ## Testing
 
@@ -142,11 +142,11 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Unions
 
-* [Freezed](https://github.com/rrousselGit/freezed) ⭐ 2,199 | 🐛 116 | 🌐 Dart | 📅 2026-11-16 - Code generation for immutable classes that has a simple syntax/API without compromising on the features.
+* [Freezed](https://github.com/rrousselGit/freezed) ⭐ 2,199 | 🐛 116 | 🌐 Dart | 📅 2026-11-24 - Code generation for immutable classes that has a simple syntax/API without compromising on the features.
 
 ## Crash monitoring
 
-* [Sentry](https://github.com/getsentry/sentry-dart) ⭐ 877 | 🐛 108 | 🌐 Dart | 📅 2026-11-23 - Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time.
+* [Sentry](https://github.com/getsentry/sentry-dart) ⭐ 877 | 🐛 112 | 🌐 Dart | 📅 2026-11-24 - Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time.
 
 ## Tools
 
@@ -210,4 +210,4 @@ There are lots of awesome libraries being added to [Pub](https://pub.dartlang.or
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
