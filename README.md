@@ -1,6 +1,6 @@
 # Awesome Dart with stars
 
-A curated list of awesome Dart frameworks, libraries, and software. Items on the list are actively maintained, well documented, and popular in the Dart community. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 542,666 | 🐛 103 | 📅 2026-09-02 lists.
+A curated list of awesome Dart frameworks, libraries, and software. Items on the list are actively maintained, well documented, and popular in the Dart community. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 543,202 | 🐛 103 | 📅 2026-09-02 lists.
 
 ### Contributing
 
@@ -57,7 +57,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Other Frameworks
 
-* [Rapid Open Hardware Development (ROHD) Framework](https://github.com/intel/rohd) ⭐ 499 | 🐛 63 | 🌐 Dart | 📅 2026-11-21 - A framework for describing and verifying hardware.
+* [Rapid Open Hardware Development (ROHD) Framework](https://github.com/intel/rohd) ⭐ 499 | 🐛 68 | 🌐 Dart | 📅 2026-11-21 - A framework for describing and verifying hardware.
 
 ## Cross-platform development
 
@@ -66,7 +66,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Game Development
 
-* [Flame](https://github.com/luanpotter/flame#readme) ⭐ 10,824 | 🐛 87 | 🌐 Dart | 📅 2026-11-24 - A minimalist Flutter game engine.
+* [Flame](https://github.com/luanpotter/flame#readme) ⭐ 10,824 | 🐛 96 | 🌐 Dart | 📅 2026-11-24 - A minimalist Flutter game engine.
 * [DartRocket](https://github.com/StrykerKKD/dartrocket) ⚠️ Archived - DartRocket is a HTML5 game framework written in Dart and which uses the StageXL rendering engine.
 * [Pixi Dart](https://github.com/FedeOmoto/pixi) ⭐ 35 | 🐛 1 | 🌐 Dart | 📅 2014-11-28 - A port of the pixi.js rendering engine.
 * [Ranger](https://github.com/wdevore/Ranger-Dart) ⭐ 26 | 🐛 0 | 🌐 Dart | 📅 2021-08-31 - A game engine centered around HTML5 Canvas and a scene graph.
@@ -113,7 +113,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Parsers
 
-* [PetitParser](https://github.com/petitparser/dart-petitparser) ⭐ 490 | 🐛 4 | 🌐 Dart | 📅 2026-11-21 - PetitParser combines ideas from scannerless parsing, parser combinators, parsing expression grammars and packrat parsers to model grammars and parsers as objects that can be reconfigured dynamically.
+* [PetitParser](https://github.com/petitparser/dart-petitparser) ⭐ 490 | 🐛 4 | 🌐 Dart | 📅 2026-11-25 - PetitParser combines ideas from scannerless parsing, parser combinators, parsing expression grammars and packrat parsers to model grammars and parsers as objects that can be reconfigured dynamically.
 * [markdown](https://github.com/dart-lang/markdown) ⚠️ Archived - Parse markdown into HTML on both the client and server.
 * [html](https://pub.dartlang.org/packages/html) - A library for working with HTML documents. Previously known as html5lib.
 * [XML](https://pub.dartlang.org/packages/xml) - A lightweight library for parsing, traversing, querying and building XML documents.
@@ -146,11 +146,11 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Crash monitoring
 
-* [Sentry](https://github.com/getsentry/sentry-dart) ⭐ 877 | 🐛 119 | 🌐 Dart | 📅 2026-11-25 - Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time.
+* [Sentry](https://github.com/getsentry/sentry-dart) ⭐ 877 | 🐛 113 | 🌐 Dart | 📅 2026-11-26 - Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time.
 
 ## Tools
 
-* [m2cgen](https://github.com/BayesWitnesses/m2cgen) ⭐ 3,000 | 🐛 62 | 🌐 Python | 📅 2024-08-03 - A CLI tool to transpile trained classic ML models into a native Dart code with zero dependencies.
+* [m2cgen](https://github.com/BayesWitnesses/m2cgen) ⭐ 3,001 | 🐛 62 | 🌐 Python | 📅 2024-08-03 - A CLI tool to transpile trained classic ML models into a native Dart code with zero dependencies.
 * [Dart Code Metrics](https://github.com/dart-code-checker/dart-code-metrics) ⚠️ Archived - Additional linter which reports code metrics, checks for anti-patterns and provides additional rules for Analyzer.
 * [Stagehand](https://github.com/dart-lang/stagehand) ⚠️ Archived - A project scaffolding generator, inspired by tools like Web Starter Kit and Yeoman.
 * [dev\_compiler](https://github.com/dart-lang/dev_compiler) ⚠️ Archived - Dart to JavaScript compiler designed to create idiomatic, readable JavaScript output.
@@ -210,4 +210,4 @@ There are lots of awesome libraries being added to [Pub](https://pub.dartlang.or
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
